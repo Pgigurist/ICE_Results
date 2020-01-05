@@ -1,0 +1,52 @@
+extend layout
+block content
+    center
+        h1=category.name
+        h2=segment.name
+        table
+            tr(class=category.typename)
+                td(class=category.typename, colspan="3") стартовый лист
+            tr(class=category.gender)
+                th(class=category.typename) имя
+                th(class=category.typename) регион
+                th(class=category.typename) ст.№
+            each item in start_list
+                if item.points == null
+                    +participant(item)
+        p
+        table
+            tr(class=category.gender)
+                td(class=category.typename, colspan="9") результаты
+            tr(class=category.typename)
+                th(class=category.typename) место
+                th(class=category.typename) имя
+                th(class=category.typename) регион
+                th(class=category.typename) ст.№
+                th(class=category.typename) TSC
+                th(class=category.typename) TSS
+                th(class=category.typename) TS
+                th(class=category.typename) CS
+                th(class=category.typename) DED
+            each item in start_list
+                if item.points != null
+                    +result(item)
+        
+mixin participant(participant)
+    tr(class=category.typename)
+        tr
+            td(class=category.typename)=participant.full_name
+            td(class=category.typename)=participant.club
+        td(class=category.typename)=participant.nation
+        td(class=category.typename)=participant.start_number
+mixin result(participant)
+    tr(class=category.typename)
+            td(class=category.typename)=participant.rank
+            td(class=category.typename)=participant.full_name
+            td(class=category.typename)=participant.nation
+            td(class=category.typename)=participant.start_number
+            td(class=category.typename)=participant.points
+            td(class=category.typename) 
+            td(class=category.typename) 
+            td(class=category.typename)
+            td(class=category.typename) 
+            

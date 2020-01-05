@@ -1,0 +1,1937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ISUCalcFS>
+    <Event EVT_ID="507" EVT_NAME="Открытое первенство по фигурному катанию на конька" EVT_SNAME="Открытое первенство по фигурному катанию на конька" EVT_PLACE="" EVT_BEGDAT="20141223" EVT_ENDDAT="20141225" EVT_PLANG="E" EVT_TYPE="T" EVT_CMPTYP="L" EVT_STAT="A" EVT_CALCTM="B" >
+    <Categories_List>
+        <Category CAT_ID="3388" EVT_ID="507" CAT_NAME="юный фигурист - девочки, 2009 г.р."
+>
+        <Segments_List>
+            <Segment SCP_ID="1" CAT_ID="3388" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F" SCP_NWCAT="1"
+>
+            <Participants_List>
+                <Participant PAR_ID="1" PCT_ID="65618" CAT_ID="3388" PAR_STAT="A"
+>
+                    <Person_Couple_Team PCT_ID="65618" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Алина" PCT_FNAME="Астанкова" PCT_BDAY="20090101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="А." PCT_FNAMEC="АСТАНКОВА" PCT_CNAME="Алина АСТАНКОВА" PCT_SNAME="АСТААЛИН" PCT_PLNAME="Алина АСТАНКОВА" PCT_PSNAME="Алина АСТАНКОВА" PCT_TLNAME="Алина АСТАНКОВА" PCT_TSNAME="Алина АСТАНКОВА" PCT_S1NAME="Алина АСТАНКОВА" PCT_S2NAME="Алина АСТАНКОВА" PCT_S3NAME="Алина АСТАНКОВА" PCT_S4NAME="Алина АСТАНКОВА" PCT_WFNAME="Астанкова" PCT_WGNAME="Алина" PCT_INAME="АСТАНКОВА А." PCT_RNAME="АСТАНКОВА Алина" PCT_CLBID="66741" PCT_CSNAM="МУ СК &quot;Дмитров&quot;">
+                    <Club PCT_ID="66741" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+/>
+                </Person_Couple_Team>
+            </Participant>
+            <Participant PAR_ID="2" PCT_ID="65614" CAT_ID="3388" PAR_STAT="A">
+                <Person_Couple_Team PCT_ID="65614" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Полина" PCT_FNAME="Наумова" PCT_BDAY="20090101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="П." PCT_FNAMEC="НАУМОВА" PCT_CNAME="Полина НАУМОВА" PCT_SNAME="НАУМПОЛИ" PCT_PLNAME="Полина НАУМОВА" PCT_PSNAME="Полина НАУМОВА" PCT_TLNAME="Полина НАУМОВА" PCT_TSNAME="Полина НАУМОВА" PCT_S1NAME="Полина НАУМОВА" PCT_S2NAME="Полина НАУМОВА" PCT_S3NAME="Полина НАУМОВА" PCT_S4NAME="Полина НАУМОВА" PCT_WFNAME="Наумова" PCT_WGNAME="Полина" PCT_INAME="НАУМОВА П." PCT_RNAME="НАУМОВА Полина" PCT_CLBID="66742" PCT_CSNAM="МУ СК &quot;Дмитров&quot;">
+                <Club PCT_ID="66742" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"/>
+                </Person_Couple_Team>
+            </Participant>
+            <Participant PAR_ID="3" PCT_ID="64996" CAT_ID="3388" PAR_STAT="A">
+                <Person_Couple_Team PCT_ID="64996" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Дарья" PCT_FNAME="Порай" PCT_BDAY="20090101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сошникова С.В." PCT_GNAMEI="Д." PCT_FNAMEC="ПОРАЙ" PCT_CNAME="Дарья ПОРАЙ" PCT_SNAME="ПОРАДАРЬ" PCT_PLNAME="Дарья ПОРАЙ" PCT_PSNAME="Дарья ПОРАЙ" PCT_TLNAME="Дарья ПОРАЙ" PCT_TSNAME="Дарья ПОРАЙ" PCT_S1NAME="Дарья ПОРАЙ" PCT_S2NAME="Дарья ПОРАЙ" PCT_S3NAME="Дарья ПОРАЙ" PCT_S4NAME="Дарья ПОРАЙ" PCT_WFNAME="Порай" PCT_WGNAME="Дарья" PCT_INAME="ПОРАЙ Д." PCT_RNAME="ПОРАЙ Дарья" PCT_CLBID="66743" PCT_CSNAM="ЧШФК &quot;Грация&quot;">
+                <Club PCT_ID="66743" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"/>
+                </Person_Couple_Team>
+            </Participant>
+        </Participants_List>
+        <Performance_List>
+            <Performance PRF_ID="1" PAR_ID="1" SCP_ID="1" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"/>
+            <Performance PRF_ID="2" PAR_ID="2" SCP_ID="1" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"/>
+            <Performance PRF_ID="3" PAR_ID="3" SCP_ID="1" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"/>
+        </Performance_List>
+    </Segment>
+    </Segments_List>
+</Category>
+<Category CAT_ID="3389" EVT_ID="507" CAT_NAME="юный фигурист - девочки, 2008 г.р."
+>
+<Segments_List>
+<Segment SCP_ID="2" CAT_ID="3389" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="4" PCT_ID="64998" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="64998" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Валерия" PCT_FNAME="Веснина" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="В." PCT_FNAMEC="ВЕСНИНА" PCT_CNAME="Валерия ВЕСНИНА" PCT_SNAME="ВЕСНВАЛЕ" PCT_PLNAME="Валерия ВЕСНИНА" PCT_PSNAME="Валерия ВЕСНИНА" PCT_TLNAME="Валерия ВЕСНИНА" PCT_TSNAME="Валерия ВЕСНИНА" PCT_S1NAME="Валерия ВЕСНИНА" PCT_S2NAME="Валерия ВЕСНИНА" PCT_S3NAME="Валерия ВЕСНИНА" PCT_S4NAME="Валерия ВЕСНИНА" PCT_WFNAME="Веснина" PCT_WGNAME="Валерия" PCT_INAME="ВЕСНИНА В." PCT_RNAME="ВЕСНИНА Валерия"
+PCT_CLBID="66744"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66744" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="5" PCT_ID="65617" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65617" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Полина" PCT_FNAME="Жукова" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="П." PCT_FNAMEC="ЖУКОВА" PCT_CNAME="Полина ЖУКОВА" PCT_SNAME="ЖУКОПОЛИ" PCT_PLNAME="Полина ЖУКОВА" PCT_PSNAME="Полина ЖУКОВА" PCT_TLNAME="Полина ЖУКОВА" PCT_TSNAME="Полина ЖУКОВА" PCT_S1NAME="Полина ЖУКОВА" PCT_S2NAME="Полина ЖУКОВА" PCT_S3NAME="Полина ЖУКОВА" PCT_S4NAME="Полина ЖУКОВА" PCT_WFNAME="Жукова" PCT_WGNAME="Полина" PCT_INAME="ЖУКОВА П." PCT_RNAME="ЖУКОВА Полина"
+PCT_CLBID="66745"
+PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+>
+<Club PCT_ID="66745" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="6" PCT_ID="65313" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65313" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Стефания" PCT_FNAME="Короткова" PCT_BDAY="20081121" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сухомлинов А.А." PCT_GNAMEI="С." PCT_FNAMEC="КОРОТКОВА" PCT_CNAME="Стефания КОРОТКОВА" PCT_SNAME="КОРОСТЕФ" PCT_PLNAME="Стефания КОРОТКОВА" PCT_PSNAME="Стефания КОРОТКОВА" PCT_TLNAME="Стефания КОРОТКОВА" PCT_TSNAME="Стефания КОРОТКОВА" PCT_S1NAME="Стефания КОРОТКОВА" PCT_S2NAME="Стефания КОРОТКОВА" PCT_S3NAME="Стефания КОРОТКОВА" PCT_S4NAME="Стефания КОРОТКОВА" PCT_WFNAME="Короткова" PCT_WGNAME="Стефания" PCT_INAME="КОРОТКОВА С." PCT_RNAME="КОРОТКОВА Стефания"
+PCT_CLBID="66746"
+PCT_CSNAM="РОО «ФФКСО»"
+>
+<Club PCT_ID="66746" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="РОО «ФФКСО»" PCT_SNAME="РОО «ФФК" PCT_PLNAME="РОО «ФФКСО»" PCT_PSNAME="РОО «ФФКСО»" PCT_TLNAME="РОО «ФФКСО»" PCT_TSNAME="РОО «ФФКСО»" PCT_S1NAME="РОО «ФФКСО»" PCT_S2NAME="РОО «ФФКСО»" PCT_S3NAME="РОО «ФФКСО»" PCT_S4NAME="РОО «ФФКСО»" PCT_CSNAM="РОО «ФФКСО»"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="7" PCT_ID="65326" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65326" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александра" PCT_FNAME="Макеева" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гершкович А.А." PCT_GNAMEI="А." PCT_FNAMEC="МАКЕЕВА" PCT_CNAME="Александра МАКЕЕВА" PCT_SNAME="МАКЕАЛЕК" PCT_PLNAME="Александра МАКЕЕВА" PCT_PSNAME="Александра МАКЕЕВА" PCT_TLNAME="Александра МАКЕЕВА" PCT_TSNAME="Александра МАКЕЕВА" PCT_S1NAME="Александра МАКЕЕВА" PCT_S2NAME="Александра МАКЕЕВА" PCT_S3NAME="Александра МАКЕЕВА" PCT_S4NAME="Александра МАКЕЕВА" PCT_WFNAME="Макеева" PCT_WGNAME="Александра" PCT_INAME="МАКЕЕВА А." PCT_RNAME="МАКЕЕВА Александра"
+PCT_CLBID="66747"
+PCT_CSNAM="ЦСО Самбо70 отд Конёк Чайковской"
+>
+<Club PCT_ID="66747" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_SNAME="ЦСО САМБ" PCT_PLNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_PSNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_TLNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_TSNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S1NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S2NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S3NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S4NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_CSNAM="ЦСО Самбо70 отд Конёк Чайковской"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="8" PCT_ID="65615" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65615" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Линда" PCT_FNAME="Прокофьева" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="Л." PCT_FNAMEC="ПРОКОФЬЕВА" PCT_CNAME="Линда ПРОКОФЬЕВА" PCT_SNAME="ПРОКЛИНД" PCT_PLNAME="Линда ПРОКОФЬЕВА" PCT_PSNAME="Линда ПРОКОФЬЕВА" PCT_TLNAME="Линда ПРОКОФЬЕВА" PCT_TSNAME="Линда ПРОКОФЬЕВА" PCT_S1NAME="Линда ПРОКОФЬЕВА" PCT_S2NAME="Линда ПРОКОФЬЕВА" PCT_S3NAME="Линда ПРОКОФЬЕВА" PCT_S4NAME="Линда ПРОКОФЬЕВА" PCT_WFNAME="Прокофьева" PCT_WGNAME="Линда" PCT_INAME="ПРОКОФЬЕВА Л." PCT_RNAME="ПРОКОФЬЕВА Линда"
+PCT_CLBID="66748"
+PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+>
+<Club PCT_ID="66748" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="9" PCT_ID="65751" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65751" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Рыбенко" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="Е." PCT_FNAMEC="РЫБЕНКО" PCT_CNAME="Елизавета РЫБЕНКО" PCT_SNAME="РЫБЕЕЛИЗ" PCT_PLNAME="Елизавета РЫБЕНКО" PCT_PSNAME="Елизавета РЫБЕНКО" PCT_TLNAME="Елизавета РЫБЕНКО" PCT_TSNAME="Елизавета РЫБЕНКО" PCT_S1NAME="Елизавета РЫБЕНКО" PCT_S2NAME="Елизавета РЫБЕНКО" PCT_S3NAME="Елизавета РЫБЕНКО" PCT_S4NAME="Елизавета РЫБЕНКО" PCT_WFNAME="Рыбенко" PCT_WGNAME="Елизавета" PCT_INAME="РЫБЕНКО Е." PCT_RNAME="РЫБЕНКО Елизавета"
+PCT_CLBID="66749"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66749" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="10" PCT_ID="65750" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65750" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анна" PCT_FNAME="Сапронова" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="А." PCT_FNAMEC="САПРОНОВА" PCT_CNAME="Анна САПРОНОВА" PCT_SNAME="САПРАННА" PCT_PLNAME="Анна САПРОНОВА" PCT_PSNAME="Анна САПРОНОВА" PCT_TLNAME="Анна САПРОНОВА" PCT_TSNAME="Анна САПРОНОВА" PCT_S1NAME="Анна САПРОНОВА" PCT_S2NAME="Анна САПРОНОВА" PCT_S3NAME="Анна САПРОНОВА" PCT_S4NAME="Анна САПРОНОВА" PCT_WFNAME="Сапронова" PCT_WGNAME="Анна" PCT_INAME="САПРОНОВА А." PCT_RNAME="САПРОНОВА Анна"
+PCT_CLBID="66750"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66750" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="11" PCT_ID="65847" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65847" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Юлия" PCT_FNAME="Саядян" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="Ю." PCT_FNAMEC="САЯДЯН" PCT_CNAME="Юлия САЯДЯН" PCT_SNAME="САЯДЮЛИЯ" PCT_PLNAME="Юлия САЯДЯН" PCT_PSNAME="Юлия САЯДЯН" PCT_TLNAME="Юлия САЯДЯН" PCT_TSNAME="Юлия САЯДЯН" PCT_S1NAME="Юлия САЯДЯН" PCT_S2NAME="Юлия САЯДЯН" PCT_S3NAME="Юлия САЯДЯН" PCT_S4NAME="Юлия САЯДЯН" PCT_WFNAME="Саядян" PCT_WGNAME="Юлия" PCT_INAME="САЯДЯН Ю." PCT_RNAME="САЯДЯН Юлия"
+PCT_CLBID="66751"
+PCT_CSNAM="МУ СК &quot; Дмитров&quot;"
+>
+<Club PCT_ID="66751" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot; Дмитров&quot;" PCT_SNAME="МУ СК &quot; " PCT_PLNAME="МУ СК &quot; Дмитров&quot;" PCT_PSNAME="МУ СК &quot; Дмитров&quot;" PCT_TLNAME="МУ СК &quot; Дмитров&quot;" PCT_TSNAME="МУ СК &quot; Дмитров&quot;" PCT_S1NAME="МУ СК &quot; Дмитров&quot;" PCT_S2NAME="МУ СК &quot; Дмитров&quot;" PCT_S3NAME="МУ СК &quot; Дмитров&quot;" PCT_S4NAME="МУ СК &quot; Дмитров&quot;" PCT_CSNAM="МУ СК &quot; Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="12" PCT_ID="65785" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65785" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анастасия" PCT_FNAME="Смирнова" PCT_BDAY="20080904" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Карибян Андраник Арамович" PCT_GNAMEI="А." PCT_FNAMEC="СМИРНОВА" PCT_CNAME="Анастасия СМИРНОВА" PCT_SNAME="СМИРАНАС" PCT_PLNAME="Анастасия СМИРНОВА" PCT_PSNAME="Анастасия СМИРНОВА" PCT_TLNAME="Анастасия СМИРНОВА" PCT_TSNAME="Анастасия СМИРНОВА" PCT_S1NAME="Анастасия СМИРНОВА" PCT_S2NAME="Анастасия СМИРНОВА" PCT_S3NAME="Анастасия СМИРНОВА" PCT_S4NAME="Анастасия СМИРНОВА" PCT_WFNAME="Смирнова" PCT_WGNAME="Анастасия" PCT_INAME="СМИРНОВА А." PCT_RNAME="СМИРНОВА Анастасия"
+PCT_CLBID="66752"
+PCT_CSNAM="ДС Лобня"
+>
+<Club PCT_ID="66752" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДС Лобня" PCT_SNAME="ДС ЛОБНЯ" PCT_PLNAME="ДС Лобня" PCT_PSNAME="ДС Лобня" PCT_TLNAME="ДС Лобня" PCT_TSNAME="ДС Лобня" PCT_S1NAME="ДС Лобня" PCT_S2NAME="ДС Лобня" PCT_S3NAME="ДС Лобня" PCT_S4NAME="ДС Лобня" PCT_CSNAM="ДС Лобня"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="13" PCT_ID="65616" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65616" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анастасия" PCT_FNAME="Смирнова" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="А." PCT_FNAMEC="СМИРНОВА" PCT_CNAME="Анастасия СМИРНОВА" PCT_SNAME="СМИРАНАС" PCT_PLNAME="Анастасия СМИРНОВА" PCT_PSNAME="Анастасия СМИРНОВА" PCT_TLNAME="Анастасия СМИРНОВА" PCT_TSNAME="Анастасия СМИРНОВА" PCT_S1NAME="Анастасия СМИРНОВА" PCT_S2NAME="Анастасия СМИРНОВА" PCT_S3NAME="Анастасия СМИРНОВА" PCT_S4NAME="Анастасия СМИРНОВА" PCT_WFNAME="Смирнова" PCT_WGNAME="Анастасия" PCT_INAME="СМИРНОВА А." PCT_RNAME="СМИРНОВА Анастасия"
+PCT_CLBID="66753"
+PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+>
+<Club PCT_ID="66753" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="14" PCT_ID="65726" CAT_ID="3389" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65726" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анна" PCT_FNAME="Чуракова" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Карибян А.А." PCT_GNAMEI="А." PCT_FNAMEC="ЧУРАКОВА" PCT_CNAME="Анна ЧУРАКОВА" PCT_SNAME="ЧУРААННА" PCT_PLNAME="Анна ЧУРАКОВА" PCT_PSNAME="Анна ЧУРАКОВА" PCT_TLNAME="Анна ЧУРАКОВА" PCT_TSNAME="Анна ЧУРАКОВА" PCT_S1NAME="Анна ЧУРАКОВА" PCT_S2NAME="Анна ЧУРАКОВА" PCT_S3NAME="Анна ЧУРАКОВА" PCT_S4NAME="Анна ЧУРАКОВА" PCT_WFNAME="Чуракова" PCT_WGNAME="Анна" PCT_INAME="ЧУРАКОВА А." PCT_RNAME="ЧУРАКОВА Анна"
+PCT_CLBID="66754"
+PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+>
+<Club PCT_ID="66754" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МАУ ДС &quot;Лобня&quot;" PCT_SNAME="МАУ ДС &quot;" PCT_PLNAME="МАУ ДС &quot;Лобня&quot;" PCT_PSNAME="МАУ ДС &quot;Лобня&quot;" PCT_TLNAME="МАУ ДС &quot;Лобня&quot;" PCT_TSNAME="МАУ ДС &quot;Лобня&quot;" PCT_S1NAME="МАУ ДС &quot;Лобня&quot;" PCT_S2NAME="МАУ ДС &quot;Лобня&quot;" PCT_S3NAME="МАУ ДС &quot;Лобня&quot;" PCT_S4NAME="МАУ ДС &quot;Лобня&quot;" PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="4"
+PAR_ID="4" SCP_ID="2" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="5"
+PAR_ID="5" SCP_ID="2" PRF_STNUM="9" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="6"
+PAR_ID="6" SCP_ID="2" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="7"
+PAR_ID="7" SCP_ID="2" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="8"
+PAR_ID="8" SCP_ID="2" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="9"
+PAR_ID="9" SCP_ID="2" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="10"
+PAR_ID="10" SCP_ID="2" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="11"
+PAR_ID="11" SCP_ID="2" PRF_STNUM="10" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="12"
+PAR_ID="12" SCP_ID="2" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="13"
+PAR_ID="13" SCP_ID="2" PRF_STNUM="11" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="14"
+PAR_ID="14" SCP_ID="2" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3390" EVT_ID="507" CAT_NAME="юный фигурист - мальчики, 2008 г.р."
+>
+<Segments_List>
+<Segment SCP_ID="3" CAT_ID="3390" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="15" PCT_ID="65716" CAT_ID="3390" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65716" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Никита" PCT_FNAME="Павлов" PCT_BDAY="20080101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Карибян А.А." PCT_GNAMEI="Н." PCT_FNAMEC="ПАВЛОВ" PCT_CNAME="Никита ПАВЛОВ" PCT_SNAME="ПАВЛНИКИ" PCT_PLNAME="Никита ПАВЛОВ" PCT_PSNAME="Никита ПАВЛОВ" PCT_TLNAME="Никита ПАВЛОВ" PCT_TSNAME="Никита ПАВЛОВ" PCT_S1NAME="Никита ПАВЛОВ" PCT_S2NAME="Никита ПАВЛОВ" PCT_S3NAME="Никита ПАВЛОВ" PCT_S4NAME="Никита ПАВЛОВ" PCT_WFNAME="Павлов" PCT_WGNAME="Никита" PCT_INAME="ПАВЛОВ Н." PCT_RNAME="ПАВЛОВ Никита"
+PCT_CLBID="66755"
+PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+>
+<Club PCT_ID="66755" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МАУ ДС &quot;Лобня&quot;" PCT_SNAME="МАУ ДС &quot;" PCT_PLNAME="МАУ ДС &quot;Лобня&quot;" PCT_PSNAME="МАУ ДС &quot;Лобня&quot;" PCT_TLNAME="МАУ ДС &quot;Лобня&quot;" PCT_TSNAME="МАУ ДС &quot;Лобня&quot;" PCT_S1NAME="МАУ ДС &quot;Лобня&quot;" PCT_S2NAME="МАУ ДС &quot;Лобня&quot;" PCT_S3NAME="МАУ ДС &quot;Лобня&quot;" PCT_S4NAME="МАУ ДС &quot;Лобня&quot;" PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="16" PCT_ID="66738" CAT_ID="3390" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="66738" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Егор" PCT_FNAME="Шайков" PCT_BDAY="20080101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="" PCT_GNAMEI="Е." PCT_FNAMEC="ШАЙКОВ" PCT_CNAME="Егор ШАЙКОВ" PCT_SNAME="ШАЙКЕГОР" PCT_PLNAME="Егор ШАЙКОВ" PCT_PSNAME="Егор ШАЙКОВ" PCT_TLNAME="Егор ШАЙКОВ" PCT_TSNAME="Егор ШАЙКОВ" PCT_S1NAME="Егор ШАЙКОВ" PCT_S2NAME="Егор ШАЙКОВ" PCT_S3NAME="Егор ШАЙКОВ" PCT_S4NAME="Егор ШАЙКОВ" PCT_WFNAME="Шайков" PCT_WGNAME="Егор" PCT_INAME="ШАЙКОВ Е." PCT_RNAME="ШАЙКОВ Егор"
+PCT_CLBID="66756"
+PCT_CSNAM="Ермак"
+>
+<Club PCT_ID="66756" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Ермак" PCT_SNAME="ЕРМАК" PCT_PLNAME="Ермак" PCT_PSNAME="Ермак" PCT_TLNAME="Ермак" PCT_TSNAME="Ермак" PCT_S1NAME="Ермак" PCT_S2NAME="Ермак" PCT_S3NAME="Ермак" PCT_S4NAME="Ермак" PCT_CSNAM="Ермак"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="15"
+PAR_ID="15" SCP_ID="3" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="16"
+PAR_ID="16" SCP_ID="3" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3403" EVT_ID="507" CAT_NAME="юный фигурист - девочки, 2007 г.р. и старше"
+>
+<Segments_List>
+<Segment SCP_ID="4" CAT_ID="3403" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="17" PCT_ID="65000" CAT_ID="3403" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65000" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Татьяна" PCT_FNAME="Зимакова" PCT_BDAY="20070101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="Т." PCT_FNAMEC="ЗИМАКОВА" PCT_CNAME="Татьяна ЗИМАКОВА" PCT_SNAME="ЗИМАТАТЬ" PCT_PLNAME="Татьяна ЗИМАКОВА" PCT_PSNAME="Татьяна ЗИМАКОВА" PCT_TLNAME="Татьяна ЗИМАКОВА" PCT_TSNAME="Татьяна ЗИМАКОВА" PCT_S1NAME="Татьяна ЗИМАКОВА" PCT_S2NAME="Татьяна ЗИМАКОВА" PCT_S3NAME="Татьяна ЗИМАКОВА" PCT_S4NAME="Татьяна ЗИМАКОВА" PCT_WFNAME="Зимакова" PCT_WGNAME="Татьяна" PCT_INAME="ЗИМАКОВА Т." PCT_RNAME="ЗИМАКОВА Татьяна"
+PCT_CLBID="66757"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66757" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="17"
+PAR_ID="17" SCP_ID="4" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3391" EVT_ID="507" CAT_NAME="3 юношеский разряд - девочки, 2007 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="5" CAT_ID="3391" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="18" PCT_ID="65137" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65137" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Софья" PCT_FNAME="Азарова" PCT_BDAY="20080101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гершкович А.А." PCT_GNAMEI="С." PCT_FNAMEC="АЗАРОВА" PCT_CNAME="Софья АЗАРОВА" PCT_SNAME="АЗАРСОФЬ" PCT_PLNAME="Софья АЗАРОВА" PCT_PSNAME="Софья АЗАРОВА" PCT_TLNAME="Софья АЗАРОВА" PCT_TSNAME="Софья АЗАРОВА" PCT_S1NAME="Софья АЗАРОВА" PCT_S2NAME="Софья АЗАРОВА" PCT_S3NAME="Софья АЗАРОВА" PCT_S4NAME="Софья АЗАРОВА" PCT_WFNAME="Азарова" PCT_WGNAME="Софья" PCT_INAME="АЗАРОВА С." PCT_RNAME="АЗАРОВА Софья"
+PCT_CLBID="66758"
+PCT_CSNAM="ЦСО Самбо70 отд Конёк Чайковской"
+>
+<Club PCT_ID="66758" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_SNAME="ЦСО САМБ" PCT_PLNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_PSNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_TLNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_TSNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S1NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S2NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S3NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S4NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_CSNAM="ЦСО Самбо70 отд Конёк Чайковской"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="19" PCT_ID="65677" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65677" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Сафия" PCT_FNAME="Газизуллина" PCT_BDAY="20070423" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="С." PCT_FNAMEC="ГАЗИЗУЛЛИНА" PCT_CNAME="Сафия ГАЗИЗУЛЛИНА" PCT_SNAME="ГАЗИСАФИ" PCT_PLNAME="Сафия ГАЗИЗУЛЛИНА" PCT_PSNAME="Сафия ГАЗИЗУЛЛИНА" PCT_TLNAME="Сафия ГАЗИЗУЛЛИНА" PCT_TSNAME="Сафия ГАЗИЗУЛЛИНА" PCT_S1NAME="Сафия ГАЗИЗУЛЛИНА" PCT_S2NAME="Сафия ГАЗИЗУЛЛИНА" PCT_S3NAME="Сафия ГАЗИЗУЛЛИНА" PCT_S4NAME="Сафия ГАЗИЗУЛЛИНА" PCT_WFNAME="Газизуллина" PCT_WGNAME="Сафия" PCT_INAME="ГАЗИЗУЛЛИНА С." PCT_RNAME="ГАЗИЗУЛЛИНА Сафия"
+PCT_CLBID="66759"
+PCT_CSNAM="Личная заявка"
+>
+<Club PCT_ID="66759" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная заявка" PCT_SNAME="ЛИЧНАЯ З" PCT_PLNAME="Личная заявка" PCT_PSNAME="Личная заявка" PCT_TLNAME="Личная заявка" PCT_TSNAME="Личная заявка" PCT_S1NAME="Личная заявка" PCT_S2NAME="Личная заявка" PCT_S3NAME="Личная заявка" PCT_S4NAME="Личная заявка" PCT_CSNAM="Личная заявка"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="20" PCT_ID="65333" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65333" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Софья" PCT_FNAME="Ерина" PCT_BDAY="20070503" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сергеев М.С." PCT_GNAMEI="С." PCT_FNAMEC="ЕРИНА" PCT_CNAME="Софья ЕРИНА" PCT_SNAME="ЕРИНСОФЬ" PCT_PLNAME="Софья ЕРИНА" PCT_PSNAME="Софья ЕРИНА" PCT_TLNAME="Софья ЕРИНА" PCT_TSNAME="Софья ЕРИНА" PCT_S1NAME="Софья ЕРИНА" PCT_S2NAME="Софья ЕРИНА" PCT_S3NAME="Софья ЕРИНА" PCT_S4NAME="Софья ЕРИНА" PCT_WFNAME="Ерина" PCT_WGNAME="Софья" PCT_INAME="ЕРИНА С." PCT_RNAME="ЕРИНА Софья"
+PCT_CLBID="66760"
+PCT_CSNAM="ДЮСШ &quot;Ока&quot;"
+>
+<Club PCT_ID="66760" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Ока&quot;" PCT_SNAME="ДЮСШ &quot;ОК" PCT_PLNAME="ДЮСШ &quot;Ока&quot;" PCT_PSNAME="ДЮСШ &quot;Ока&quot;" PCT_TLNAME="ДЮСШ &quot;Ока&quot;" PCT_TSNAME="ДЮСШ &quot;Ока&quot;" PCT_S1NAME="ДЮСШ &quot;Ока&quot;" PCT_S2NAME="ДЮСШ &quot;Ока&quot;" PCT_S3NAME="ДЮСШ &quot;Ока&quot;" PCT_S4NAME="ДЮСШ &quot;Ока&quot;" PCT_CSNAM="ДЮСШ &quot;Ока&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="21" PCT_ID="65157" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65157" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Жанна" PCT_FNAME="Каширина" PCT_BDAY="20070428" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Смирнова И А" PCT_GNAMEI="Ж." PCT_FNAMEC="КАШИРИНА" PCT_CNAME="Жанна КАШИРИНА" PCT_SNAME="КАШИЖАНН" PCT_PLNAME="Жанна КАШИРИНА" PCT_PSNAME="Жанна КАШИРИНА" PCT_TLNAME="Жанна КАШИРИНА" PCT_TSNAME="Жанна КАШИРИНА" PCT_S1NAME="Жанна КАШИРИНА" PCT_S2NAME="Жанна КАШИРИНА" PCT_S3NAME="Жанна КАШИРИНА" PCT_S4NAME="Жанна КАШИРИНА" PCT_WFNAME="Каширина" PCT_WGNAME="Жанна" PCT_INAME="КАШИРИНА Ж." PCT_RNAME="КАШИРИНА Жанна"
+PCT_CLBID="66761"
+PCT_CSNAM="МДХЦ и ФК"
+>
+<Club PCT_ID="66761" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МДХЦ и ФК" PCT_SNAME="МДХЦ И Ф" PCT_PLNAME="МДХЦ и ФК" PCT_PSNAME="МДХЦ и ФК" PCT_TLNAME="МДХЦ и ФК" PCT_TSNAME="МДХЦ и ФК" PCT_S1NAME="МДХЦ и ФК" PCT_S2NAME="МДХЦ и ФК" PCT_S3NAME="МДХЦ и ФК" PCT_S4NAME="МДХЦ и ФК" PCT_CSNAM="МДХЦ и ФК"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="22" PCT_ID="65325" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65325" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Мария" PCT_FNAME="Макеева" PCT_BDAY="20070101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гершкович А.А." PCT_GNAMEI="М." PCT_FNAMEC="МАКЕЕВА" PCT_CNAME="Мария МАКЕЕВА" PCT_SNAME="МАКЕМАРИ" PCT_PLNAME="Мария МАКЕЕВА" PCT_PSNAME="Мария МАКЕЕВА" PCT_TLNAME="Мария МАКЕЕВА" PCT_TSNAME="Мария МАКЕЕВА" PCT_S1NAME="Мария МАКЕЕВА" PCT_S2NAME="Мария МАКЕЕВА" PCT_S3NAME="Мария МАКЕЕВА" PCT_S4NAME="Мария МАКЕЕВА" PCT_WFNAME="Макеева" PCT_WGNAME="Мария" PCT_INAME="МАКЕЕВА М." PCT_RNAME="МАКЕЕВА Мария"
+PCT_CLBID="66762"
+PCT_CSNAM="ЦСО Самбо70 отд Конёк Чайковской"
+>
+<Club PCT_ID="66762" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_SNAME="ЦСО САМБ" PCT_PLNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_PSNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_TLNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_TSNAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S1NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S2NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S3NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_S4NAME="ЦСО Самбо70 отд Конёк Чайковской" PCT_CSNAM="ЦСО Самбо70 отд Конёк Чайковской"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="23" PCT_ID="65607" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65607" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Стефания" PCT_FNAME="Романютина" PCT_BDAY="20070101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соловьев А.В." PCT_GNAMEI="С." PCT_FNAMEC="РОМАНЮТИНА" PCT_CNAME="Стефания РОМАНЮТИНА" PCT_SNAME="РОМАСТЕФ" PCT_PLNAME="Стефания РОМАНЮТИНА" PCT_PSNAME="Стефания РОМАНЮТИНА" PCT_TLNAME="Стефания РОМАНЮТИНА" PCT_TSNAME="Стефания РОМАНЮТИНА" PCT_S1NAME="Стефания РОМАНЮТИНА" PCT_S2NAME="Стефания РОМАНЮТИНА" PCT_S3NAME="Стефания РОМАНЮТИНА" PCT_S4NAME="Стефания РОМАНЮТИНА" PCT_WFNAME="Романютина" PCT_WGNAME="Стефания" PCT_INAME="РОМАНЮТИНА С." PCT_RNAME="РОМАНЮТИНА Стефания"
+PCT_CLBID="66763"
+PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+>
+<Club PCT_ID="66763" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МАУ ДС &quot;Лобня&quot;" PCT_SNAME="МАУ ДС &quot;" PCT_PLNAME="МАУ ДС &quot;Лобня&quot;" PCT_PSNAME="МАУ ДС &quot;Лобня&quot;" PCT_TLNAME="МАУ ДС &quot;Лобня&quot;" PCT_TSNAME="МАУ ДС &quot;Лобня&quot;" PCT_S1NAME="МАУ ДС &quot;Лобня&quot;" PCT_S2NAME="МАУ ДС &quot;Лобня&quot;" PCT_S3NAME="МАУ ДС &quot;Лобня&quot;" PCT_S4NAME="МАУ ДС &quot;Лобня&quot;" PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="24" PCT_ID="65355" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65355" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анна" PCT_FNAME="Спиридонова" PCT_BDAY="20071007" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сухомлинов А.А." PCT_GNAMEI="А." PCT_FNAMEC="СПИРИДОНОВА" PCT_CNAME="Анна СПИРИДОНОВА" PCT_SNAME="СПИРАННА" PCT_PLNAME="Анна СПИРИДОНОВА" PCT_PSNAME="Анна СПИРИДОНОВА" PCT_TLNAME="Анна СПИРИДОНОВА" PCT_TSNAME="Анна СПИРИДОНОВА" PCT_S1NAME="Анна СПИРИДОНОВА" PCT_S2NAME="Анна СПИРИДОНОВА" PCT_S3NAME="Анна СПИРИДОНОВА" PCT_S4NAME="Анна СПИРИДОНОВА" PCT_WFNAME="Спиридонова" PCT_WGNAME="Анна" PCT_INAME="СПИРИДОНОВА А." PCT_RNAME="СПИРИДОНОВА Анна"
+PCT_CLBID="66764"
+PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+>
+<Club PCT_ID="66764" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="РОО &quot;ФФКСО&quot;" PCT_SNAME="РОО &quot;ФФК" PCT_PLNAME="РОО &quot;ФФКСО&quot;" PCT_PSNAME="РОО &quot;ФФКСО&quot;" PCT_TLNAME="РОО &quot;ФФКСО&quot;" PCT_TSNAME="РОО &quot;ФФКСО&quot;" PCT_S1NAME="РОО &quot;ФФКСО&quot;" PCT_S2NAME="РОО &quot;ФФКСО&quot;" PCT_S3NAME="РОО &quot;ФФКСО&quot;" PCT_S4NAME="РОО &quot;ФФКСО&quot;" PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="25" PCT_ID="65816" CAT_ID="3391" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65816" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Лаура" PCT_FNAME="Шелковникова" PCT_BDAY="20071122" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="В. Р. Хайбуллова " PCT_GNAMEI="Л." PCT_FNAMEC="ШЕЛКОВНИКОВА" PCT_CNAME="Лаура ШЕЛКОВНИКОВА" PCT_SNAME="ШЕЛКЛАУР" PCT_PLNAME="Лаура ШЕЛКОВНИКОВА" PCT_PSNAME="Лаура ШЕЛКОВНИКОВА" PCT_TLNAME="Лаура ШЕЛКОВНИКОВА" PCT_TSNAME="Лаура ШЕЛКОВНИКОВА" PCT_S1NAME="Лаура ШЕЛКОВНИКОВА" PCT_S2NAME="Лаура ШЕЛКОВНИКОВА" PCT_S3NAME="Лаура ШЕЛКОВНИКОВА" PCT_S4NAME="Лаура ШЕЛКОВНИКОВА" PCT_WFNAME="Шелковникова" PCT_WGNAME="Лаура" PCT_INAME="ШЕЛКОВНИКОВА Л." PCT_RNAME="ШЕЛКОВНИКОВА Лаура"
+PCT_CLBID="66765"
+PCT_CSNAM="Лично"
+>
+<Club PCT_ID="66765" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Лично" PCT_SNAME="ЛИЧНО" PCT_PLNAME="Лично" PCT_PSNAME="Лично" PCT_TLNAME="Лично" PCT_TSNAME="Лично" PCT_S1NAME="Лично" PCT_S2NAME="Лично" PCT_S3NAME="Лично" PCT_S4NAME="Лично" PCT_CSNAM="Лично"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="18"
+PAR_ID="18" SCP_ID="5" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="19"
+PAR_ID="19" SCP_ID="5" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="20"
+PAR_ID="20" SCP_ID="5" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="21"
+PAR_ID="21" SCP_ID="5" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="22"
+PAR_ID="22" SCP_ID="5" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="23"
+PAR_ID="23" SCP_ID="5" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="24"
+PAR_ID="24" SCP_ID="5" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="25"
+PAR_ID="25" SCP_ID="5" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3392" EVT_ID="507" CAT_NAME="3 юношеский разряд - мальчики, 2007 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="6" CAT_ID="3392" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="26" PCT_ID="65107" CAT_ID="3392" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65107" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Олег" PCT_FNAME="Котов" PCT_BDAY="20070523" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Краснова А.И" PCT_GNAMEI="О." PCT_FNAMEC="КОТОВ" PCT_CNAME="Олег КОТОВ" PCT_SNAME="КОТООЛЕГ" PCT_PLNAME="Олег КОТОВ" PCT_PSNAME="Олег КОТОВ" PCT_TLNAME="Олег КОТОВ" PCT_TSNAME="Олег КОТОВ" PCT_S1NAME="Олег КОТОВ" PCT_S2NAME="Олег КОТОВ" PCT_S3NAME="Олег КОТОВ" PCT_S4NAME="Олег КОТОВ" PCT_WFNAME="Котов" PCT_WGNAME="Олег" PCT_INAME="КОТОВ О." PCT_RNAME="КОТОВ Олег"
+PCT_CLBID="66766"
+PCT_CSNAM="Ск&quot;стрела&quot;"
+>
+<Club PCT_ID="66766" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Ск&quot;стрела&quot;" PCT_SNAME="СК&quot;СТРЕЛ" PCT_PLNAME="Ск&quot;стрела&quot;" PCT_PSNAME="Ск&quot;стрела&quot;" PCT_TLNAME="Ск&quot;стрела&quot;" PCT_TSNAME="Ск&quot;стрела&quot;" PCT_S1NAME="Ск&quot;стрела&quot;" PCT_S2NAME="Ск&quot;стрела&quot;" PCT_S3NAME="Ск&quot;стрела&quot;" PCT_S4NAME="Ск&quot;стрела&quot;" PCT_CSNAM="Ск&quot;стрела&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="26"
+PAR_ID="26" SCP_ID="6" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3405" EVT_ID="507" CAT_NAME="3 юношеский разряд - девушки, 2006 г.р. и старше"
+>
+<Segments_List>
+<Segment SCP_ID="7" CAT_ID="3405" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="27" PCT_ID="65001" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65001" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Ксения" PCT_FNAME="Абрамова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="К." PCT_FNAMEC="АБРАМОВА" PCT_CNAME="Ксения АБРАМОВА" PCT_SNAME="АБРАКСЕН" PCT_PLNAME="Ксения АБРАМОВА" PCT_PSNAME="Ксения АБРАМОВА" PCT_TLNAME="Ксения АБРАМОВА" PCT_TSNAME="Ксения АБРАМОВА" PCT_S1NAME="Ксения АБРАМОВА" PCT_S2NAME="Ксения АБРАМОВА" PCT_S3NAME="Ксения АБРАМОВА" PCT_S4NAME="Ксения АБРАМОВА" PCT_WFNAME="Абрамова" PCT_WGNAME="Ксения" PCT_INAME="АБРАМОВА К." PCT_RNAME="АБРАМОВА Ксения"
+PCT_CLBID="66767"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66767" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="28" PCT_ID="65106" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65106" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анастасия" PCT_FNAME="Буслаева" PCT_BDAY="20060310" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Краснова А.И" PCT_GNAMEI="А." PCT_FNAMEC="БУСЛАЕВА" PCT_CNAME="Анастасия БУСЛАЕВА" PCT_SNAME="БУСЛАНАС" PCT_PLNAME="Анастасия БУСЛАЕВА" PCT_PSNAME="Анастасия БУСЛАЕВА" PCT_TLNAME="Анастасия БУСЛАЕВА" PCT_TSNAME="Анастасия БУСЛАЕВА" PCT_S1NAME="Анастасия БУСЛАЕВА" PCT_S2NAME="Анастасия БУСЛАЕВА" PCT_S3NAME="Анастасия БУСЛАЕВА" PCT_S4NAME="Анастасия БУСЛАЕВА" PCT_WFNAME="Буслаева" PCT_WGNAME="Анастасия" PCT_INAME="БУСЛАЕВА А." PCT_RNAME="БУСЛАЕВА Анастасия"
+PCT_CLBID="66768"
+PCT_CSNAM="Ск&quot;стрела&quot;"
+>
+<Club PCT_ID="66768" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Ск&quot;стрела&quot;" PCT_SNAME="СК&quot;СТРЕЛ" PCT_PLNAME="Ск&quot;стрела&quot;" PCT_PSNAME="Ск&quot;стрела&quot;" PCT_TLNAME="Ск&quot;стрела&quot;" PCT_TSNAME="Ск&quot;стрела&quot;" PCT_S1NAME="Ск&quot;стрела&quot;" PCT_S2NAME="Ск&quot;стрела&quot;" PCT_S3NAME="Ск&quot;стрела&quot;" PCT_S4NAME="Ск&quot;стрела&quot;" PCT_CSNAM="Ск&quot;стрела&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="29" PCT_ID="65772" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65772" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Евгения" PCT_FNAME="Геворкян" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="Е." PCT_FNAMEC="ГЕВОРКЯН" PCT_CNAME="Евгения ГЕВОРКЯН" PCT_SNAME="ГЕВОЕВГЕ" PCT_PLNAME="Евгения ГЕВОРКЯН" PCT_PSNAME="Евгения ГЕВОРКЯН" PCT_TLNAME="Евгения ГЕВОРКЯН" PCT_TSNAME="Евгения ГЕВОРКЯН" PCT_S1NAME="Евгения ГЕВОРКЯН" PCT_S2NAME="Евгения ГЕВОРКЯН" PCT_S3NAME="Евгения ГЕВОРКЯН" PCT_S4NAME="Евгения ГЕВОРКЯН" PCT_WFNAME="Геворкян" PCT_WGNAME="Евгения" PCT_INAME="ГЕВОРКЯН Е." PCT_RNAME="ГЕВОРКЯН Евгения"
+PCT_CLBID="66769"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66769" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="30" PCT_ID="65773" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65773" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Софья" PCT_FNAME="Глазунова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="С." PCT_FNAMEC="ГЛАЗУНОВА" PCT_CNAME="Софья ГЛАЗУНОВА" PCT_SNAME="ГЛАЗСОФЬ" PCT_PLNAME="Софья ГЛАЗУНОВА" PCT_PSNAME="Софья ГЛАЗУНОВА" PCT_TLNAME="Софья ГЛАЗУНОВА" PCT_TSNAME="Софья ГЛАЗУНОВА" PCT_S1NAME="Софья ГЛАЗУНОВА" PCT_S2NAME="Софья ГЛАЗУНОВА" PCT_S3NAME="Софья ГЛАЗУНОВА" PCT_S4NAME="Софья ГЛАЗУНОВА" PCT_WFNAME="Глазунова" PCT_WGNAME="Софья" PCT_INAME="ГЛАЗУНОВА С." PCT_RNAME="ГЛАЗУНОВА Софья"
+PCT_CLBID="66770"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66770" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="31" PCT_ID="65777" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65777" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Мария" PCT_FNAME="Горшкова" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="М." PCT_FNAMEC="ГОРШКОВА" PCT_CNAME="Мария ГОРШКОВА" PCT_SNAME="ГОРШМАРИ" PCT_PLNAME="Мария ГОРШКОВА" PCT_PSNAME="Мария ГОРШКОВА" PCT_TLNAME="Мария ГОРШКОВА" PCT_TSNAME="Мария ГОРШКОВА" PCT_S1NAME="Мария ГОРШКОВА" PCT_S2NAME="Мария ГОРШКОВА" PCT_S3NAME="Мария ГОРШКОВА" PCT_S4NAME="Мария ГОРШКОВА" PCT_WFNAME="Горшкова" PCT_WGNAME="Мария" PCT_INAME="ГОРШКОВА М." PCT_RNAME="ГОРШКОВА Мария"
+PCT_CLBID="66771"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66771" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="32" PCT_ID="65139" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65139" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александра" PCT_FNAME="Ермилова" PCT_BDAY="20050514" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калиниченко И.Е." PCT_GNAMEI="А." PCT_FNAMEC="ЕРМИЛОВА" PCT_CNAME="Александра ЕРМИЛОВА" PCT_SNAME="ЕРМИАЛЕК" PCT_PLNAME="Александра ЕРМИЛОВА" PCT_PSNAME="Александра ЕРМИЛОВА" PCT_TLNAME="Александра ЕРМИЛОВА" PCT_TSNAME="Александра ЕРМИЛОВА" PCT_S1NAME="Александра ЕРМИЛОВА" PCT_S2NAME="Александра ЕРМИЛОВА" PCT_S3NAME="Александра ЕРМИЛОВА" PCT_S4NAME="Александра ЕРМИЛОВА" PCT_WFNAME="Ермилова" PCT_WGNAME="Александра" PCT_INAME="ЕРМИЛОВА А." PCT_RNAME="ЕРМИЛОВА Александра"
+PCT_CLBID="66772"
+PCT_CSNAM="Хрустальный конек"
+>
+<Club PCT_ID="66772" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Хрустальный конек" PCT_SNAME="ХРУСТАЛЬ" PCT_PLNAME="Хрустальный конек" PCT_PSNAME="Хрустальный конек" PCT_TLNAME="Хрустальный конек" PCT_TSNAME="Хрустальный конек" PCT_S1NAME="Хрустальный конек" PCT_S2NAME="Хрустальный конек" PCT_S3NAME="Хрустальный конек" PCT_S4NAME="Хрустальный конек" PCT_CSNAM="Хрустальный конек"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="33" PCT_ID="65485" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65485" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Виолета" PCT_FNAME="Качурина" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Краснова А." PCT_GNAMEI="В." PCT_FNAMEC="КАЧУРИНА" PCT_CNAME="Виолета КАЧУРИНА" PCT_SNAME="КАЧУВИОЛ" PCT_PLNAME="Виолета КАЧУРИНА" PCT_PSNAME="Виолета КАЧУРИНА" PCT_TLNAME="Виолета КАЧУРИНА" PCT_TSNAME="Виолета КАЧУРИНА" PCT_S1NAME="Виолета КАЧУРИНА" PCT_S2NAME="Виолета КАЧУРИНА" PCT_S3NAME="Виолета КАЧУРИНА" PCT_S4NAME="Виолета КАЧУРИНА" PCT_WFNAME="Качурина" PCT_WGNAME="Виолета" PCT_INAME="КАЧУРИНА В." PCT_RNAME="КАЧУРИНА Виолета"
+PCT_CLBID="66773"
+PCT_CSNAM="Звезда Гжели"
+>
+<Club PCT_ID="66773" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Звезда Гжели" PCT_SNAME="ЗВЕЗДА Г" PCT_PLNAME="Звезда Гжели" PCT_PSNAME="Звезда Гжели" PCT_TLNAME="Звезда Гжели" PCT_TSNAME="Звезда Гжели" PCT_S1NAME="Звезда Гжели" PCT_S2NAME="Звезда Гжели" PCT_S3NAME="Звезда Гжели" PCT_S4NAME="Звезда Гжели" PCT_CSNAM="Звезда Гжели"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="34" PCT_ID="65765" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65765" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елена" PCT_FNAME="Колганова" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Кузнецова" PCT_GNAMEI="Е." PCT_FNAMEC="КОЛГАНОВА" PCT_CNAME="Елена КОЛГАНОВА" PCT_SNAME="КОЛГЕЛЕН" PCT_PLNAME="Елена КОЛГАНОВА" PCT_PSNAME="Елена КОЛГАНОВА" PCT_TLNAME="Елена КОЛГАНОВА" PCT_TSNAME="Елена КОЛГАНОВА" PCT_S1NAME="Елена КОЛГАНОВА" PCT_S2NAME="Елена КОЛГАНОВА" PCT_S3NAME="Елена КОЛГАНОВА" PCT_S4NAME="Елена КОЛГАНОВА" PCT_WFNAME="Колганова" PCT_WGNAME="Елена" PCT_INAME="КОЛГАНОВА Е." PCT_RNAME="КОЛГАНОВА Елена"
+PCT_CLBID="66774"
+PCT_CSNAM="Самбо 70 &quot;Конек Чайковской&quot;"
+>
+<Club PCT_ID="66774" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_SNAME="САМБО 70" PCT_PLNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_PSNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_TLNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_TSNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S1NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S2NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S3NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S4NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_CSNAM="Самбо 70 &quot;Конек Чайковской&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="35" PCT_ID="65776" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65776" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Станислава" PCT_FNAME="Корнилова" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="С." PCT_FNAMEC="КОРНИЛОВА" PCT_CNAME="Станислава КОРНИЛОВА" PCT_SNAME="КОРНСТАН" PCT_PLNAME="Станислава КОРНИЛОВА" PCT_PSNAME="Станислава КОРНИЛОВА" PCT_TLNAME="Станислава КОРНИЛОВА" PCT_TSNAME="Станислава КОРНИЛОВА" PCT_S1NAME="Станислава КОРНИЛОВА" PCT_S2NAME="Станислава КОРНИЛОВА" PCT_S3NAME="Станислава КОРНИЛОВА" PCT_S4NAME="Станислава КОРНИЛОВА" PCT_WFNAME="Корнилова" PCT_WGNAME="Станислава" PCT_INAME="КОРНИЛОВА С." PCT_RNAME="КОРНИЛОВА Станислава"
+PCT_CLBID="66775"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66775" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="36" PCT_ID="65004" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65004" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Мария" PCT_FNAME="Кравцева" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="М." PCT_FNAMEC="КРАВЦЕВА" PCT_CNAME="Мария КРАВЦЕВА" PCT_SNAME="КРАВМАРИ" PCT_PLNAME="Мария КРАВЦЕВА" PCT_PSNAME="Мария КРАВЦЕВА" PCT_TLNAME="Мария КРАВЦЕВА" PCT_TSNAME="Мария КРАВЦЕВА" PCT_S1NAME="Мария КРАВЦЕВА" PCT_S2NAME="Мария КРАВЦЕВА" PCT_S3NAME="Мария КРАВЦЕВА" PCT_S4NAME="Мария КРАВЦЕВА" PCT_WFNAME="Кравцева" PCT_WGNAME="Мария" PCT_INAME="КРАВЦЕВА М." PCT_RNAME="КРАВЦЕВА Мария"
+PCT_CLBID="66776"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66776" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="37" PCT_ID="65002" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65002" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Арина" PCT_FNAME="Кусайко" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="А." PCT_FNAMEC="КУСАЙКО" PCT_CNAME="Арина КУСАЙКО" PCT_SNAME="КУСААРИН" PCT_PLNAME="Арина КУСАЙКО" PCT_PSNAME="Арина КУСАЙКО" PCT_TLNAME="Арина КУСАЙКО" PCT_TSNAME="Арина КУСАЙКО" PCT_S1NAME="Арина КУСАЙКО" PCT_S2NAME="Арина КУСАЙКО" PCT_S3NAME="Арина КУСАЙКО" PCT_S4NAME="Арина КУСАЙКО" PCT_WFNAME="Кусайко" PCT_WGNAME="Арина" PCT_INAME="КУСАЙКО А." PCT_RNAME="КУСАЙКО Арина"
+PCT_CLBID="66777"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66777" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="38" PCT_ID="65775" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65775" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Диана" PCT_FNAME="Морозова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="Д." PCT_FNAMEC="МОРОЗОВА" PCT_CNAME="Диана МОРОЗОВА" PCT_SNAME="МОРОДИАН" PCT_PLNAME="Диана МОРОЗОВА" PCT_PSNAME="Диана МОРОЗОВА" PCT_TLNAME="Диана МОРОЗОВА" PCT_TSNAME="Диана МОРОЗОВА" PCT_S1NAME="Диана МОРОЗОВА" PCT_S2NAME="Диана МОРОЗОВА" PCT_S3NAME="Диана МОРОЗОВА" PCT_S4NAME="Диана МОРОЗОВА" PCT_WFNAME="Морозова" PCT_WGNAME="Диана" PCT_INAME="МОРОЗОВА Д." PCT_RNAME="МОРОЗОВА Диана"
+PCT_CLBID="66778"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66778" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="39" PCT_ID="65774" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65774" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Никишина" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="Е." PCT_FNAMEC="НИКИШИНА" PCT_CNAME="Елизавета НИКИШИНА" PCT_SNAME="НИКИЕЛИЗ" PCT_PLNAME="Елизавета НИКИШИНА" PCT_PSNAME="Елизавета НИКИШИНА" PCT_TLNAME="Елизавета НИКИШИНА" PCT_TSNAME="Елизавета НИКИШИНА" PCT_S1NAME="Елизавета НИКИШИНА" PCT_S2NAME="Елизавета НИКИШИНА" PCT_S3NAME="Елизавета НИКИШИНА" PCT_S4NAME="Елизавета НИКИШИНА" PCT_WFNAME="Никишина" PCT_WGNAME="Елизавета" PCT_INAME="НИКИШИНА Е." PCT_RNAME="НИКИШИНА Елизавета"
+PCT_CLBID="66779"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66779" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="40" PCT_ID="65315" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65315" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Екатерина" PCT_FNAME="Никунина" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сухомлинов А.А." PCT_GNAMEI="Е." PCT_FNAMEC="НИКУНИНА" PCT_CNAME="Екатерина НИКУНИНА" PCT_SNAME="НИКУЕКАТ" PCT_PLNAME="Екатерина НИКУНИНА" PCT_PSNAME="Екатерина НИКУНИНА" PCT_TLNAME="Екатерина НИКУНИНА" PCT_TSNAME="Екатерина НИКУНИНА" PCT_S1NAME="Екатерина НИКУНИНА" PCT_S2NAME="Екатерина НИКУНИНА" PCT_S3NAME="Екатерина НИКУНИНА" PCT_S4NAME="Екатерина НИКУНИНА" PCT_WFNAME="Никунина" PCT_WGNAME="Екатерина" PCT_INAME="НИКУНИНА Е." PCT_RNAME="НИКУНИНА Екатерина"
+PCT_CLBID="66780"
+PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+>
+<Club PCT_ID="66780" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="РОО &quot;ФФКСО&quot;" PCT_SNAME="РОО &quot;ФФК" PCT_PLNAME="РОО &quot;ФФКСО&quot;" PCT_PSNAME="РОО &quot;ФФКСО&quot;" PCT_TLNAME="РОО &quot;ФФКСО&quot;" PCT_TSNAME="РОО &quot;ФФКСО&quot;" PCT_S1NAME="РОО &quot;ФФКСО&quot;" PCT_S2NAME="РОО &quot;ФФКСО&quot;" PCT_S3NAME="РОО &quot;ФФКСО&quot;" PCT_S4NAME="РОО &quot;ФФКСО&quot;" PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="41" PCT_ID="65192" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65192" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Полина" PCT_FNAME="Попова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Шепелева Т.П." PCT_GNAMEI="П." PCT_FNAMEC="ПОПОВА" PCT_CNAME="Полина ПОПОВА" PCT_SNAME="ПОПОПОЛИ" PCT_PLNAME="Полина ПОПОВА" PCT_PSNAME="Полина ПОПОВА" PCT_TLNAME="Полина ПОПОВА" PCT_TSNAME="Полина ПОПОВА" PCT_S1NAME="Полина ПОПОВА" PCT_S2NAME="Полина ПОПОВА" PCT_S3NAME="Полина ПОПОВА" PCT_S4NAME="Полина ПОПОВА" PCT_WFNAME="Попова" PCT_WGNAME="Полина" PCT_INAME="ПОПОВА П." PCT_RNAME="ПОПОВА Полина"
+PCT_CLBID="66781"
+PCT_CSNAM="Хрустальный конек"
+>
+<Club PCT_ID="66781" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Хрустальный конек" PCT_SNAME="ХРУСТАЛЬ" PCT_PLNAME="Хрустальный конек" PCT_PSNAME="Хрустальный конек" PCT_TLNAME="Хрустальный конек" PCT_TSNAME="Хрустальный конек" PCT_S1NAME="Хрустальный конек" PCT_S2NAME="Хрустальный конек" PCT_S3NAME="Хрустальный конек" PCT_S4NAME="Хрустальный конек" PCT_CSNAM="Хрустальный конек"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="42" PCT_ID="65003" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65003" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Екатерина" PCT_FNAME="Порай" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="Е." PCT_FNAMEC="ПОРАЙ" PCT_CNAME="Екатерина ПОРАЙ" PCT_SNAME="ПОРАЕКАТ" PCT_PLNAME="Екатерина ПОРАЙ" PCT_PSNAME="Екатерина ПОРАЙ" PCT_TLNAME="Екатерина ПОРАЙ" PCT_TSNAME="Екатерина ПОРАЙ" PCT_S1NAME="Екатерина ПОРАЙ" PCT_S2NAME="Екатерина ПОРАЙ" PCT_S3NAME="Екатерина ПОРАЙ" PCT_S4NAME="Екатерина ПОРАЙ" PCT_WFNAME="Порай" PCT_WGNAME="Екатерина" PCT_INAME="ПОРАЙ Е." PCT_RNAME="ПОРАЙ Екатерина"
+PCT_CLBID="66782"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66782" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="43" PCT_ID="65830" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65830" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Марина" PCT_FNAME="Хакимова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Галустян И.В." PCT_GNAMEI="М." PCT_FNAMEC="ХАКИМОВА" PCT_CNAME="Марина ХАКИМОВА" PCT_SNAME="ХАКИМАРИ" PCT_PLNAME="Марина ХАКИМОВА" PCT_PSNAME="Марина ХАКИМОВА" PCT_TLNAME="Марина ХАКИМОВА" PCT_TSNAME="Марина ХАКИМОВА" PCT_S1NAME="Марина ХАКИМОВА" PCT_S2NAME="Марина ХАКИМОВА" PCT_S3NAME="Марина ХАКИМОВА" PCT_S4NAME="Марина ХАКИМОВА" PCT_WFNAME="Хакимова" PCT_WGNAME="Марина" PCT_INAME="ХАКИМОВА М." PCT_RNAME="ХАКИМОВА Марина"
+PCT_CLBID="66783"
+PCT_CSNAM="КПРФ"
+>
+<Club PCT_ID="66783" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="КПРФ" PCT_SNAME="КПРФ" PCT_PLNAME="КПРФ" PCT_PSNAME="КПРФ" PCT_TLNAME="КПРФ" PCT_TSNAME="КПРФ" PCT_S1NAME="КПРФ" PCT_S2NAME="КПРФ" PCT_S3NAME="КПРФ" PCT_S4NAME="КПРФ" PCT_CSNAM="КПРФ"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="44" PCT_ID="65517" CAT_ID="3405" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65517" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Варвара" PCT_FNAME="Шинкаркина" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Кузнецова А.И." PCT_GNAMEI="В." PCT_FNAMEC="ШИНКАРКИНА" PCT_CNAME="Варвара ШИНКАРКИНА" PCT_SNAME="ШИНКВАРВ" PCT_PLNAME="Варвара ШИНКАРКИНА" PCT_PSNAME="Варвара ШИНКАРКИНА" PCT_TLNAME="Варвара ШИНКАРКИНА" PCT_TSNAME="Варвара ШИНКАРКИНА" PCT_S1NAME="Варвара ШИНКАРКИНА" PCT_S2NAME="Варвара ШИНКАРКИНА" PCT_S3NAME="Варвара ШИНКАРКИНА" PCT_S4NAME="Варвара ШИНКАРКИНА" PCT_WFNAME="Шинкаркина" PCT_WGNAME="Варвара" PCT_INAME="ШИНКАРКИНА В." PCT_RNAME="ШИНКАРКИНА Варвара"
+PCT_CLBID="66784"
+PCT_CSNAM="Самбо 70 &quot;Конек Чайковской&quot;"
+>
+<Club PCT_ID="66784" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_SNAME="САМБО 70" PCT_PLNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_PSNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_TLNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_TSNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S1NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S2NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S3NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S4NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_CSNAM="Самбо 70 &quot;Конек Чайковской&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="27"
+PAR_ID="27" SCP_ID="7" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="28"
+PAR_ID="28" SCP_ID="7" PRF_STNUM="15" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="29"
+PAR_ID="29" SCP_ID="7" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="30"
+PAR_ID="30" SCP_ID="7" PRF_STNUM="14" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="31"
+PAR_ID="31" SCP_ID="7" PRF_STNUM="16" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="32"
+PAR_ID="32" SCP_ID="7" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="33"
+PAR_ID="33" SCP_ID="7" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="34"
+PAR_ID="34" SCP_ID="7" PRF_STNUM="18" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="35"
+PAR_ID="35" SCP_ID="7" PRF_STNUM="10" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="36"
+PAR_ID="36" SCP_ID="7" PRF_STNUM="17" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="37"
+PAR_ID="37" SCP_ID="7" PRF_STNUM="9" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="38"
+PAR_ID="38" SCP_ID="7" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="39"
+PAR_ID="39" SCP_ID="7" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="40"
+PAR_ID="40" SCP_ID="7" PRF_STNUM="13" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="41"
+PAR_ID="41" SCP_ID="7" PRF_STNUM="11" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="42"
+PAR_ID="42" SCP_ID="7" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="43"
+PAR_ID="43" SCP_ID="7" PRF_STNUM="12" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="44"
+PAR_ID="44" SCP_ID="7" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3406" EVT_ID="507" CAT_NAME="3 юношеский разряд - юноши, 2006 г.р. и старше"
+>
+<Segments_List>
+<Segment SCP_ID="8" CAT_ID="3406" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="45" PCT_ID="65356" CAT_ID="3406" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65356" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Алексей" PCT_FNAME="Спиридонов" PCT_BDAY="20030320" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Сухомлинов А.А." PCT_GNAMEI="А." PCT_FNAMEC="СПИРИДОНОВ" PCT_CNAME="Алексей СПИРИДОНОВ" PCT_SNAME="СПИРАЛЕК" PCT_PLNAME="Алексей СПИРИДОНОВ" PCT_PSNAME="Алексей СПИРИДОНОВ" PCT_TLNAME="Алексей СПИРИДОНОВ" PCT_TSNAME="Алексей СПИРИДОНОВ" PCT_S1NAME="Алексей СПИРИДОНОВ" PCT_S2NAME="Алексей СПИРИДОНОВ" PCT_S3NAME="Алексей СПИРИДОНОВ" PCT_S4NAME="Алексей СПИРИДОНОВ" PCT_WFNAME="Спиридонов" PCT_WGNAME="Алексей" PCT_INAME="СПИРИДОНОВ А." PCT_RNAME="СПИРИДОНОВ Алексей"
+PCT_CLBID="66785"
+PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+>
+<Club PCT_ID="66785" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="РОО &quot;ФФКСО&quot;" PCT_SNAME="РОО &quot;ФФК" PCT_PLNAME="РОО &quot;ФФКСО&quot;" PCT_PSNAME="РОО &quot;ФФКСО&quot;" PCT_TLNAME="РОО &quot;ФФКСО&quot;" PCT_TSNAME="РОО &quot;ФФКСО&quot;" PCT_S1NAME="РОО &quot;ФФКСО&quot;" PCT_S2NAME="РОО &quot;ФФКСО&quot;" PCT_S3NAME="РОО &quot;ФФКСО&quot;" PCT_S4NAME="РОО &quot;ФФКСО&quot;" PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="45"
+PAR_ID="45" SCP_ID="8" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3393" EVT_ID="507" CAT_NAME="2 юношеский разряд - девочки, 2006 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="9" CAT_ID="3393" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="46" PCT_ID="65319" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65319" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анастасия" PCT_FNAME="Брусенко" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сергеев М.С." PCT_GNAMEI="А." PCT_FNAMEC="БРУСЕНКО" PCT_CNAME="Анастасия БРУСЕНКО" PCT_SNAME="БРУСАНАС" PCT_PLNAME="Анастасия БРУСЕНКО" PCT_PSNAME="Анастасия БРУСЕНКО" PCT_TLNAME="Анастасия БРУСЕНКО" PCT_TSNAME="Анастасия БРУСЕНКО" PCT_S1NAME="Анастасия БРУСЕНКО" PCT_S2NAME="Анастасия БРУСЕНКО" PCT_S3NAME="Анастасия БРУСЕНКО" PCT_S4NAME="Анастасия БРУСЕНКО" PCT_WFNAME="Брусенко" PCT_WGNAME="Анастасия" PCT_INAME="БРУСЕНКО А." PCT_RNAME="БРУСЕНКО Анастасия"
+PCT_CLBID="66786"
+PCT_CSNAM="ДЮСШ&quot;Ока&quot;"
+>
+<Club PCT_ID="66786" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ&quot;Ока&quot;" PCT_SNAME="ДЮСШ&quot;ОКА" PCT_PLNAME="ДЮСШ&quot;Ока&quot;" PCT_PSNAME="ДЮСШ&quot;Ока&quot;" PCT_TLNAME="ДЮСШ&quot;Ока&quot;" PCT_TSNAME="ДЮСШ&quot;Ока&quot;" PCT_S1NAME="ДЮСШ&quot;Ока&quot;" PCT_S2NAME="ДЮСШ&quot;Ока&quot;" PCT_S3NAME="ДЮСШ&quot;Ока&quot;" PCT_S4NAME="ДЮСШ&quot;Ока&quot;" PCT_CSNAM="ДЮСШ&quot;Ока&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="47" PCT_ID="65056" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65056" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Арина" PCT_FNAME="Бурман" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="А." PCT_FNAMEC="БУРМАН" PCT_CNAME="Арина БУРМАН" PCT_SNAME="БУРМАРИН" PCT_PLNAME="Арина БУРМАН" PCT_PSNAME="Арина БУРМАН" PCT_TLNAME="Арина БУРМАН" PCT_TSNAME="Арина БУРМАН" PCT_S1NAME="Арина БУРМАН" PCT_S2NAME="Арина БУРМАН" PCT_S3NAME="Арина БУРМАН" PCT_S4NAME="Арина БУРМАН" PCT_WFNAME="Бурман" PCT_WGNAME="Арина" PCT_INAME="БУРМАН А." PCT_RNAME="БУРМАН Арина"
+PCT_CLBID="66787"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66787" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="48" PCT_ID="65054" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65054" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Лукерья" PCT_FNAME="Гобзева" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="Л." PCT_FNAMEC="ГОБЗЕВА" PCT_CNAME="Лукерья ГОБЗЕВА" PCT_SNAME="ГОБЗЛУКЕ" PCT_PLNAME="Лукерья ГОБЗЕВА" PCT_PSNAME="Лукерья ГОБЗЕВА" PCT_TLNAME="Лукерья ГОБЗЕВА" PCT_TSNAME="Лукерья ГОБЗЕВА" PCT_S1NAME="Лукерья ГОБЗЕВА" PCT_S2NAME="Лукерья ГОБЗЕВА" PCT_S3NAME="Лукерья ГОБЗЕВА" PCT_S4NAME="Лукерья ГОБЗЕВА" PCT_WFNAME="Гобзева" PCT_WGNAME="Лукерья" PCT_INAME="ГОБЗЕВА Л." PCT_RNAME="ГОБЗЕВА Лукерья"
+PCT_CLBID="66788"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66788" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="49" PCT_ID="65055" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65055" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Степанида" PCT_FNAME="Гобзева" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="С." PCT_FNAMEC="ГОБЗЕВА" PCT_CNAME="Степанида ГОБЗЕВА" PCT_SNAME="ГОБЗСТЕП" PCT_PLNAME="Степанида ГОБЗЕВА" PCT_PSNAME="Степанида ГОБЗЕВА" PCT_TLNAME="Степанида ГОБЗЕВА" PCT_TSNAME="Степанида ГОБЗЕВА" PCT_S1NAME="Степанида ГОБЗЕВА" PCT_S2NAME="Степанида ГОБЗЕВА" PCT_S3NAME="Степанида ГОБЗЕВА" PCT_S4NAME="Степанида ГОБЗЕВА" PCT_WFNAME="Гобзева" PCT_WGNAME="Степанида" PCT_INAME="ГОБЗЕВА С." PCT_RNAME="ГОБЗЕВА Степанида"
+PCT_CLBID="66789"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66789" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="50" PCT_ID="65742" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65742" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Наталия" PCT_FNAME="Лагутова" PCT_BDAY="20070101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="Н." PCT_FNAMEC="ЛАГУТОВА" PCT_CNAME="Наталия ЛАГУТОВА" PCT_SNAME="ЛАГУНАТА" PCT_PLNAME="Наталия ЛАГУТОВА" PCT_PSNAME="Наталия ЛАГУТОВА" PCT_TLNAME="Наталия ЛАГУТОВА" PCT_TSNAME="Наталия ЛАГУТОВА" PCT_S1NAME="Наталия ЛАГУТОВА" PCT_S2NAME="Наталия ЛАГУТОВА" PCT_S3NAME="Наталия ЛАГУТОВА" PCT_S4NAME="Наталия ЛАГУТОВА" PCT_WFNAME="Лагутова" PCT_WGNAME="Наталия" PCT_INAME="ЛАГУТОВА Н." PCT_RNAME="ЛАГУТОВА Наталия"
+PCT_CLBID="66790"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66790" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="51" PCT_ID="65057" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65057" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Полина" PCT_FNAME="Мешкова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="П." PCT_FNAMEC="МЕШКОВА" PCT_CNAME="Полина МЕШКОВА" PCT_SNAME="МЕШКПОЛИ" PCT_PLNAME="Полина МЕШКОВА" PCT_PSNAME="Полина МЕШКОВА" PCT_TLNAME="Полина МЕШКОВА" PCT_TSNAME="Полина МЕШКОВА" PCT_S1NAME="Полина МЕШКОВА" PCT_S2NAME="Полина МЕШКОВА" PCT_S3NAME="Полина МЕШКОВА" PCT_S4NAME="Полина МЕШКОВА" PCT_WFNAME="Мешкова" PCT_WGNAME="Полина" PCT_INAME="МЕШКОВА П." PCT_RNAME="МЕШКОВА Полина"
+PCT_CLBID="66791"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66791" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="52" PCT_ID="65744" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65744" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Василиса" PCT_FNAME="Новокрещенова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="В." PCT_FNAMEC="НОВОКРЕЩЕНОВА" PCT_CNAME="Василиса НОВОКРЕЩЕНОВА" PCT_SNAME="НОВОВАСИ" PCT_PLNAME="Василиса НОВОКРЕЩЕНОВА" PCT_PSNAME="Василиса НОВОКРЕЩЕНОВА" PCT_TLNAME="Василиса НОВОКРЕЩЕНОВА" PCT_TSNAME="Василиса НОВОКРЕЩЕНОВА" PCT_S1NAME="Василиса НОВОКРЕЩЕНОВА" PCT_S2NAME="Василиса НОВОКРЕЩЕНОВА" PCT_S3NAME="Василиса НОВОКРЕЩЕНОВА" PCT_S4NAME="Василиса НОВОКРЕЩЕНОВА" PCT_WFNAME="Новокрещенова" PCT_WGNAME="Василиса" PCT_INAME="НОВОКРЕЩЕНОВА В." PCT_RNAME="НОВОКРЕЩЕНОВА Василиса"
+PCT_CLBID="66792"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66792" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="53" PCT_ID="66730" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="66730" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Эмилия" PCT_FNAME="Островская" PCT_BDAY="20060714" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сапронова О.С." PCT_GNAMEI="Э." PCT_FNAMEC="ОСТРОВСКАЯ" PCT_CNAME="Эмилия ОСТРОВСКАЯ" PCT_SNAME="ОСТРЭМИЛ" PCT_PLNAME="Эмилия ОСТРОВСКАЯ" PCT_PSNAME="Эмилия ОСТРОВСКАЯ" PCT_TLNAME="Эмилия ОСТРОВСКАЯ" PCT_TSNAME="Эмилия ОСТРОВСКАЯ" PCT_S1NAME="Эмилия ОСТРОВСКАЯ" PCT_S2NAME="Эмилия ОСТРОВСКАЯ" PCT_S3NAME="Эмилия ОСТРОВСКАЯ" PCT_S4NAME="Эмилия ОСТРОВСКАЯ" PCT_WFNAME="Островская" PCT_WGNAME="Эмилия" PCT_INAME="ОСТРОВСКАЯ Э." PCT_RNAME="ОСТРОВСКАЯ Эмилия"
+PCT_CLBID="66793"
+PCT_CSNAM="УОР 4"
+>
+<Club PCT_ID="66793" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="УОР 4" PCT_SNAME="УОР 4" PCT_PLNAME="УОР 4" PCT_PSNAME="УОР 4" PCT_TLNAME="УОР 4" PCT_TSNAME="УОР 4" PCT_S1NAME="УОР 4" PCT_S2NAME="УОР 4" PCT_S3NAME="УОР 4" PCT_S4NAME="УОР 4" PCT_CSNAM="УОР 4"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="54" PCT_ID="65480" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65480" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анна" PCT_FNAME="Терехина" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="А." PCT_FNAMEC="ТЕРЕХИНА" PCT_CNAME="Анна ТЕРЕХИНА" PCT_SNAME="ТЕРЕАННА" PCT_PLNAME="Анна ТЕРЕХИНА" PCT_PSNAME="Анна ТЕРЕХИНА" PCT_TLNAME="Анна ТЕРЕХИНА" PCT_TSNAME="Анна ТЕРЕХИНА" PCT_S1NAME="Анна ТЕРЕХИНА" PCT_S2NAME="Анна ТЕРЕХИНА" PCT_S3NAME="Анна ТЕРЕХИНА" PCT_S4NAME="Анна ТЕРЕХИНА" PCT_WFNAME="Терехина" PCT_WGNAME="Анна" PCT_INAME="ТЕРЕХИНА А." PCT_RNAME="ТЕРЕХИНА Анна"
+PCT_CLBID="66794"
+PCT_CSNAM="Личная заявка"
+>
+<Club PCT_ID="66794" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная заявка" PCT_SNAME="ЛИЧНАЯ З" PCT_PLNAME="Личная заявка" PCT_PSNAME="Личная заявка" PCT_TLNAME="Личная заявка" PCT_TSNAME="Личная заявка" PCT_S1NAME="Личная заявка" PCT_S2NAME="Личная заявка" PCT_S3NAME="Личная заявка" PCT_S4NAME="Личная заявка" PCT_CSNAM="Личная заявка"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="55" PCT_ID="65745" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65745" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Эльза" PCT_FNAME="Халиуллина" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="Э." PCT_FNAMEC="ХАЛИУЛЛИНА" PCT_CNAME="Эльза ХАЛИУЛЛИНА" PCT_SNAME="ХАЛИЭЛЬЗ" PCT_PLNAME="Эльза ХАЛИУЛЛИНА" PCT_PSNAME="Эльза ХАЛИУЛЛИНА" PCT_TLNAME="Эльза ХАЛИУЛЛИНА" PCT_TSNAME="Эльза ХАЛИУЛЛИНА" PCT_S1NAME="Эльза ХАЛИУЛЛИНА" PCT_S2NAME="Эльза ХАЛИУЛЛИНА" PCT_S3NAME="Эльза ХАЛИУЛЛИНА" PCT_S4NAME="Эльза ХАЛИУЛЛИНА" PCT_WFNAME="Халиуллина" PCT_WGNAME="Эльза" PCT_INAME="ХАЛИУЛЛИНА Э." PCT_RNAME="ХАЛИУЛЛИНА Эльза"
+PCT_CLBID="66795"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66795" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="56" PCT_ID="66739" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="66739" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Шубина" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="Е." PCT_FNAMEC="ШУБИНА" PCT_CNAME="Елизавета ШУБИНА" PCT_SNAME="ШУБИЕЛИЗ" PCT_PLNAME="Елизавета ШУБИНА" PCT_PSNAME="Елизавета ШУБИНА" PCT_TLNAME="Елизавета ШУБИНА" PCT_TSNAME="Елизавета ШУБИНА" PCT_S1NAME="Елизавета ШУБИНА" PCT_S2NAME="Елизавета ШУБИНА" PCT_S3NAME="Елизавета ШУБИНА" PCT_S4NAME="Елизавета ШУБИНА" PCT_WFNAME="Шубина" PCT_WGNAME="Елизавета" PCT_INAME="ШУБИНА Е." PCT_RNAME="ШУБИНА Елизавета"
+PCT_CLBID="66796"
+PCT_CSNAM="Ермак"
+>
+<Club PCT_ID="66796" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Ермак" PCT_SNAME="ЕРМАК" PCT_PLNAME="Ермак" PCT_PSNAME="Ермак" PCT_TLNAME="Ермак" PCT_TSNAME="Ермак" PCT_S1NAME="Ермак" PCT_S2NAME="Ермак" PCT_S3NAME="Ермак" PCT_S4NAME="Ермак" PCT_CSNAM="Ермак"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="57" PCT_ID="65749" CAT_ID="3393" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65749" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Камилла" PCT_FNAME="Юсупова" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="К." PCT_FNAMEC="ЮСУПОВА" PCT_CNAME="Камилла ЮСУПОВА" PCT_SNAME="ЮСУПКАМИ" PCT_PLNAME="Камилла ЮСУПОВА" PCT_PSNAME="Камилла ЮСУПОВА" PCT_TLNAME="Камилла ЮСУПОВА" PCT_TSNAME="Камилла ЮСУПОВА" PCT_S1NAME="Камилла ЮСУПОВА" PCT_S2NAME="Камилла ЮСУПОВА" PCT_S3NAME="Камилла ЮСУПОВА" PCT_S4NAME="Камилла ЮСУПОВА" PCT_WFNAME="Юсупова" PCT_WGNAME="Камилла" PCT_INAME="ЮСУПОВА К." PCT_RNAME="ЮСУПОВА Камилла"
+PCT_CLBID="66797"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66797" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="46"
+PAR_ID="46" SCP_ID="9" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="47"
+PAR_ID="47" SCP_ID="9" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="48"
+PAR_ID="48" SCP_ID="9" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="49"
+PAR_ID="49" SCP_ID="9" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="50"
+PAR_ID="50" SCP_ID="9" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="51"
+PAR_ID="51" SCP_ID="9" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="52"
+PAR_ID="52" SCP_ID="9" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="53"
+PAR_ID="53" SCP_ID="9" PRF_STNUM="12" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="54"
+PAR_ID="54" SCP_ID="9" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="55"
+PAR_ID="55" SCP_ID="9" PRF_STNUM="9" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="56"
+PAR_ID="56" SCP_ID="9" PRF_STNUM="10" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="57"
+PAR_ID="57" SCP_ID="9" PRF_STNUM="11" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3394" EVT_ID="507" CAT_NAME="2 юношеский разряд - мальчики, 2006 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="10" CAT_ID="3394" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="58" PCT_ID="65619" CAT_ID="3394" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65619" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Роман" PCT_FNAME="Бирюков" PCT_BDAY="20060101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="Р." PCT_FNAMEC="БИРЮКОВ" PCT_CNAME="Роман БИРЮКОВ" PCT_SNAME="БИРЮРОМА" PCT_PLNAME="Роман БИРЮКОВ" PCT_PSNAME="Роман БИРЮКОВ" PCT_TLNAME="Роман БИРЮКОВ" PCT_TSNAME="Роман БИРЮКОВ" PCT_S1NAME="Роман БИРЮКОВ" PCT_S2NAME="Роман БИРЮКОВ" PCT_S3NAME="Роман БИРЮКОВ" PCT_S4NAME="Роман БИРЮКОВ" PCT_WFNAME="Бирюков" PCT_WGNAME="Роман" PCT_INAME="БИРЮКОВ Р." PCT_RNAME="БИРЮКОВ Роман"
+PCT_CLBID="66798"
+PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+>
+<Club PCT_ID="66798" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="59" PCT_ID="65005" CAT_ID="3394" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65005" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Максим" PCT_FNAME="Воронин" PCT_BDAY="20060101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Калашников И В" PCT_GNAMEI="М." PCT_FNAMEC="ВОРОНИН" PCT_CNAME="Максим ВОРОНИН" PCT_SNAME="ВОРОМАКС" PCT_PLNAME="Максим ВОРОНИН" PCT_PSNAME="Максим ВОРОНИН" PCT_TLNAME="Максим ВОРОНИН" PCT_TSNAME="Максим ВОРОНИН" PCT_S1NAME="Максим ВОРОНИН" PCT_S2NAME="Максим ВОРОНИН" PCT_S3NAME="Максим ВОРОНИН" PCT_S4NAME="Максим ВОРОНИН" PCT_WFNAME="Воронин" PCT_WGNAME="Максим" PCT_INAME="ВОРОНИН М." PCT_RNAME="ВОРОНИН Максим"
+PCT_CLBID="66799"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66799" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="58"
+PAR_ID="58" SCP_ID="10" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="59"
+PAR_ID="59" SCP_ID="10" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3407" EVT_ID="507" CAT_NAME="2 юношеский разряд - девушки, 2005 г.р. и старше"
+>
+<Segments_List>
+<Segment SCP_ID="11" CAT_ID="3407" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="60" PCT_ID="65006" CAT_ID="3407" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65006" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Виктория" PCT_FNAME="Гвоздева" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="В." PCT_FNAMEC="ГВОЗДЕВА" PCT_CNAME="Виктория ГВОЗДЕВА" PCT_SNAME="ГВОЗВИКТ" PCT_PLNAME="Виктория ГВОЗДЕВА" PCT_PSNAME="Виктория ГВОЗДЕВА" PCT_TLNAME="Виктория ГВОЗДЕВА" PCT_TSNAME="Виктория ГВОЗДЕВА" PCT_S1NAME="Виктория ГВОЗДЕВА" PCT_S2NAME="Виктория ГВОЗДЕВА" PCT_S3NAME="Виктория ГВОЗДЕВА" PCT_S4NAME="Виктория ГВОЗДЕВА" PCT_WFNAME="Гвоздева" PCT_WGNAME="Виктория" PCT_INAME="ГВОЗДЕВА В." PCT_RNAME="ГВОЗДЕВА Виктория"
+PCT_CLBID="66800"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66800" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="61" PCT_ID="65829" CAT_ID="3407" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65829" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Варвара" PCT_FNAME="Мантач" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Галустян И.В." PCT_GNAMEI="В." PCT_FNAMEC="МАНТАЧ" PCT_CNAME="Варвара МАНТАЧ" PCT_SNAME="МАНТВАРВ" PCT_PLNAME="Варвара МАНТАЧ" PCT_PSNAME="Варвара МАНТАЧ" PCT_TLNAME="Варвара МАНТАЧ" PCT_TSNAME="Варвара МАНТАЧ" PCT_S1NAME="Варвара МАНТАЧ" PCT_S2NAME="Варвара МАНТАЧ" PCT_S3NAME="Варвара МАНТАЧ" PCT_S4NAME="Варвара МАНТАЧ" PCT_WFNAME="Мантач" PCT_WGNAME="Варвара" PCT_INAME="МАНТАЧ В." PCT_RNAME="МАНТАЧ Варвара"
+PCT_CLBID="66801"
+PCT_CSNAM="КПРФ"
+>
+<Club PCT_ID="66801" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="КПРФ" PCT_SNAME="КПРФ" PCT_PLNAME="КПРФ" PCT_PSNAME="КПРФ" PCT_TLNAME="КПРФ" PCT_TSNAME="КПРФ" PCT_S1NAME="КПРФ" PCT_S2NAME="КПРФ" PCT_S3NAME="КПРФ" PCT_S4NAME="КПРФ" PCT_CSNAM="КПРФ"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="62" PCT_ID="65007" CAT_ID="3407" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65007" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Алина" PCT_FNAME="Матчамбаева" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="А." PCT_FNAMEC="МАТЧАМБАЕВА" PCT_CNAME="Алина МАТЧАМБАЕВА" PCT_SNAME="МАТЧАЛИН" PCT_PLNAME="Алина МАТЧАМБАЕВА" PCT_PSNAME="Алина МАТЧАМБАЕВА" PCT_TLNAME="Алина МАТЧАМБАЕВА" PCT_TSNAME="Алина МАТЧАМБАЕВА" PCT_S1NAME="Алина МАТЧАМБАЕВА" PCT_S2NAME="Алина МАТЧАМБАЕВА" PCT_S3NAME="Алина МАТЧАМБАЕВА" PCT_S4NAME="Алина МАТЧАМБАЕВА" PCT_WFNAME="Матчамбаева" PCT_WGNAME="Алина" PCT_INAME="МАТЧАМБАЕВА А." PCT_RNAME="МАТЧАМБАЕВА Алина"
+PCT_CLBID="66802"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66802" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="60"
+PAR_ID="60" SCP_ID="11" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="61"
+PAR_ID="61" SCP_ID="11" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="62"
+PAR_ID="62" SCP_ID="11" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3408" EVT_ID="507" CAT_NAME="2 юношеский разряд - юноши, 2005 г.р. и старше"
+>
+<Segments_List>
+<Segment SCP_ID="12" CAT_ID="3408" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="63" PCT_ID="65008" CAT_ID="3408" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65008" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Артемий" PCT_FNAME="Боржиевский" PCT_BDAY="20040101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Калашников И В" PCT_GNAMEI="А." PCT_FNAMEC="БОРЖИЕВСКИЙ" PCT_CNAME="Артемий БОРЖИЕВСКИЙ" PCT_SNAME="БОРЖАРТЕ" PCT_PLNAME="Артемий БОРЖИЕВСКИЙ" PCT_PSNAME="Артемий БОРЖИЕВСКИЙ" PCT_TLNAME="Артемий БОРЖИЕВСКИЙ" PCT_TSNAME="Артемий БОРЖИЕВСКИЙ" PCT_S1NAME="Артемий БОРЖИЕВСКИЙ" PCT_S2NAME="Артемий БОРЖИЕВСКИЙ" PCT_S3NAME="Артемий БОРЖИЕВСКИЙ" PCT_S4NAME="Артемий БОРЖИЕВСКИЙ" PCT_WFNAME="Боржиевский" PCT_WGNAME="Артемий" PCT_INAME="БОРЖИЕВСКИЙ А." PCT_RNAME="БОРЖИЕВСКИЙ Артемий"
+PCT_CLBID="66803"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66803" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="63"
+PAR_ID="63" SCP_ID="12" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3395" EVT_ID="507" CAT_NAME="1 юношеский разряд - девочки, 2005 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="13" CAT_ID="3395" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="64" PCT_ID="65312" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65312" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Эвелина" PCT_FNAME="Лазарева" PCT_BDAY="20051219" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Царева" PCT_GNAMEI="Э." PCT_FNAMEC="ЛАЗАРЕВА" PCT_CNAME="Эвелина ЛАЗАРЕВА" PCT_SNAME="ЛАЗАЭВЕЛ" PCT_PLNAME="Эвелина ЛАЗАРЕВА" PCT_PSNAME="Эвелина ЛАЗАРЕВА" PCT_TLNAME="Эвелина ЛАЗАРЕВА" PCT_TSNAME="Эвелина ЛАЗАРЕВА" PCT_S1NAME="Эвелина ЛАЗАРЕВА" PCT_S2NAME="Эвелина ЛАЗАРЕВА" PCT_S3NAME="Эвелина ЛАЗАРЕВА" PCT_S4NAME="Эвелина ЛАЗАРЕВА" PCT_WFNAME="Лазарева" PCT_WGNAME="Эвелина" PCT_INAME="ЛАЗАРЕВА Э." PCT_RNAME="ЛАЗАРЕВА Эвелина"
+PCT_CLBID="66804"
+PCT_CSNAM="Самбо70 отд. Хрустальный"
+>
+<Club PCT_ID="66804" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Самбо70 отд. Хрустальный" PCT_SNAME="САМБО70 " PCT_PLNAME="Самбо70 отд. Хрустальный" PCT_PSNAME="Самбо70 отд. Хрустальный" PCT_TLNAME="Самбо70 отд. Хрустальный" PCT_TSNAME="Самбо70 отд. Хрустальный" PCT_S1NAME="Самбо70 отд. Хрустальный" PCT_S2NAME="Самбо70 отд. Хрустальный" PCT_S3NAME="Самбо70 отд. Хрустальный" PCT_S4NAME="Самбо70 отд. Хрустальный" PCT_CSNAM="Самбо70 отд. Хрустальный"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="65" PCT_ID="65740" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65740" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Станислава" PCT_FNAME="Лузянина" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="С." PCT_FNAMEC="ЛУЗЯНИНА" PCT_CNAME="Станислава ЛУЗЯНИНА" PCT_SNAME="ЛУЗЯСТАН" PCT_PLNAME="Станислава ЛУЗЯНИНА" PCT_PSNAME="Станислава ЛУЗЯНИНА" PCT_TLNAME="Станислава ЛУЗЯНИНА" PCT_TSNAME="Станислава ЛУЗЯНИНА" PCT_S1NAME="Станислава ЛУЗЯНИНА" PCT_S2NAME="Станислава ЛУЗЯНИНА" PCT_S3NAME="Станислава ЛУЗЯНИНА" PCT_S4NAME="Станислава ЛУЗЯНИНА" PCT_WFNAME="Лузянина" PCT_WGNAME="Станислава" PCT_INAME="ЛУЗЯНИНА С." PCT_RNAME="ЛУЗЯНИНА Станислава"
+PCT_CLBID="66805"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66805" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="66" PCT_ID="65606" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65606" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Ксения" PCT_FNAME="Никишина" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Ручкина Н.И." PCT_GNAMEI="К." PCT_FNAMEC="НИКИШИНА" PCT_CNAME="Ксения НИКИШИНА" PCT_SNAME="НИКИКСЕН" PCT_PLNAME="Ксения НИКИШИНА" PCT_PSNAME="Ксения НИКИШИНА" PCT_TLNAME="Ксения НИКИШИНА" PCT_TSNAME="Ксения НИКИШИНА" PCT_S1NAME="Ксения НИКИШИНА" PCT_S2NAME="Ксения НИКИШИНА" PCT_S3NAME="Ксения НИКИШИНА" PCT_S4NAME="Ксения НИКИШИНА" PCT_WFNAME="Никишина" PCT_WGNAME="Ксения" PCT_INAME="НИКИШИНА К." PCT_RNAME="НИКИШИНА Ксения"
+PCT_CLBID="66806"
+PCT_CSNAM="ДС &quot;Лобня&quot;, МАУ"
+>
+<Club PCT_ID="66806" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДС &quot;Лобня&quot;, МАУ" PCT_SNAME="ДС &quot;ЛОБН" PCT_PLNAME="ДС &quot;Лобня&quot;, МАУ" PCT_PSNAME="ДС &quot;Лобня&quot;, МАУ" PCT_TLNAME="ДС &quot;Лобня&quot;, МАУ" PCT_TSNAME="ДС &quot;Лобня&quot;, МАУ" PCT_S1NAME="ДС &quot;Лобня&quot;, МАУ" PCT_S2NAME="ДС &quot;Лобня&quot;, МАУ" PCT_S3NAME="ДС &quot;Лобня&quot;, МАУ" PCT_S4NAME="ДС &quot;Лобня&quot;, МАУ" PCT_CSNAM="ДС &quot;Лобня&quot;, МАУ"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="67" PCT_ID="65553" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65553" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Софья" PCT_FNAME="Николишвили" PCT_BDAY="20050612" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соловьев А.В." PCT_GNAMEI="С." PCT_FNAMEC="НИКОЛИШВИЛИ" PCT_CNAME="Софья НИКОЛИШВИЛИ" PCT_SNAME="НИКОСОФЬ" PCT_PLNAME="Софья НИКОЛИШВИЛИ" PCT_PSNAME="Софья НИКОЛИШВИЛИ" PCT_TLNAME="Софья НИКОЛИШВИЛИ" PCT_TSNAME="Софья НИКОЛИШВИЛИ" PCT_S1NAME="Софья НИКОЛИШВИЛИ" PCT_S2NAME="Софья НИКОЛИШВИЛИ" PCT_S3NAME="Софья НИКОЛИШВИЛИ" PCT_S4NAME="Софья НИКОЛИШВИЛИ" PCT_WFNAME="Николишвили" PCT_WGNAME="Софья" PCT_INAME="НИКОЛИШВИЛИ С." PCT_RNAME="НИКОЛИШВИЛИ Софья"
+PCT_CLBID="66807"
+PCT_CSNAM="ДС &quot;Лобня&quot;, МАУ"
+>
+<Club PCT_ID="66807" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДС &quot;Лобня&quot;, МАУ" PCT_SNAME="ДС &quot;ЛОБН" PCT_PLNAME="ДС &quot;Лобня&quot;, МАУ" PCT_PSNAME="ДС &quot;Лобня&quot;, МАУ" PCT_TLNAME="ДС &quot;Лобня&quot;, МАУ" PCT_TSNAME="ДС &quot;Лобня&quot;, МАУ" PCT_S1NAME="ДС &quot;Лобня&quot;, МАУ" PCT_S2NAME="ДС &quot;Лобня&quot;, МАУ" PCT_S3NAME="ДС &quot;Лобня&quot;, МАУ" PCT_S4NAME="ДС &quot;Лобня&quot;, МАУ" PCT_CSNAM="ДС &quot;Лобня&quot;, МАУ"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="68" PCT_ID="65060" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65060" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Василиса" PCT_FNAME="Новоженина" PCT_BDAY="20050215" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="В." PCT_FNAMEC="НОВОЖЕНИНА" PCT_CNAME="Василиса НОВОЖЕНИНА" PCT_SNAME="НОВОВАСИ" PCT_PLNAME="Василиса НОВОЖЕНИНА" PCT_PSNAME="Василиса НОВОЖЕНИНА" PCT_TLNAME="Василиса НОВОЖЕНИНА" PCT_TSNAME="Василиса НОВОЖЕНИНА" PCT_S1NAME="Василиса НОВОЖЕНИНА" PCT_S2NAME="Василиса НОВОЖЕНИНА" PCT_S3NAME="Василиса НОВОЖЕНИНА" PCT_S4NAME="Василиса НОВОЖЕНИНА" PCT_WFNAME="Новоженина" PCT_WGNAME="Василиса" PCT_INAME="НОВОЖЕНИНА В." PCT_RNAME="НОВОЖЕНИНА Василиса"
+PCT_CLBID="66808"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66808" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="69" PCT_ID="65741" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65741" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Таисия" PCT_FNAME="Русакова" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="Т." PCT_FNAMEC="РУСАКОВА" PCT_CNAME="Таисия РУСАКОВА" PCT_SNAME="РУСАТАИС" PCT_PLNAME="Таисия РУСАКОВА" PCT_PSNAME="Таисия РУСАКОВА" PCT_TLNAME="Таисия РУСАКОВА" PCT_TSNAME="Таисия РУСАКОВА" PCT_S1NAME="Таисия РУСАКОВА" PCT_S2NAME="Таисия РУСАКОВА" PCT_S3NAME="Таисия РУСАКОВА" PCT_S4NAME="Таисия РУСАКОВА" PCT_WFNAME="Русакова" PCT_WGNAME="Таисия" PCT_INAME="РУСАКОВА Т." PCT_RNAME="РУСАКОВА Таисия"
+PCT_CLBID="66809"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66809" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="70" PCT_ID="65324" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65324" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Мария" PCT_FNAME="Сорокина" PCT_BDAY="20050102" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соловьев А.В." PCT_GNAMEI="М." PCT_FNAMEC="СОРОКИНА" PCT_CNAME="Мария СОРОКИНА" PCT_SNAME="СОРОМАРИ" PCT_PLNAME="Мария СОРОКИНА" PCT_PSNAME="Мария СОРОКИНА" PCT_TLNAME="Мария СОРОКИНА" PCT_TSNAME="Мария СОРОКИНА" PCT_S1NAME="Мария СОРОКИНА" PCT_S2NAME="Мария СОРОКИНА" PCT_S3NAME="Мария СОРОКИНА" PCT_S4NAME="Мария СОРОКИНА" PCT_WFNAME="Сорокина" PCT_WGNAME="Мария" PCT_INAME="СОРОКИНА М." PCT_RNAME="СОРОКИНА Мария"
+PCT_CLBID="66810"
+PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+>
+<Club PCT_ID="66810" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МАУ ДС &quot;Лобня&quot;" PCT_SNAME="МАУ ДС &quot;" PCT_PLNAME="МАУ ДС &quot;Лобня&quot;" PCT_PSNAME="МАУ ДС &quot;Лобня&quot;" PCT_TLNAME="МАУ ДС &quot;Лобня&quot;" PCT_TSNAME="МАУ ДС &quot;Лобня&quot;" PCT_S1NAME="МАУ ДС &quot;Лобня&quot;" PCT_S2NAME="МАУ ДС &quot;Лобня&quot;" PCT_S3NAME="МАУ ДС &quot;Лобня&quot;" PCT_S4NAME="МАУ ДС &quot;Лобня&quot;" PCT_CSNAM="МАУ ДС &quot;Лобня&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="71" PCT_ID="65052" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65052" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Варвара" PCT_FNAME="Тимошенкова" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="В." PCT_FNAMEC="ТИМОШЕНКОВА" PCT_CNAME="Варвара ТИМОШЕНКОВА" PCT_SNAME="ТИМОВАРВ" PCT_PLNAME="Варвара ТИМОШЕНКОВА" PCT_PSNAME="Варвара ТИМОШЕНКОВА" PCT_TLNAME="Варвара ТИМОШЕНКОВА" PCT_TSNAME="Варвара ТИМОШЕНКОВА" PCT_S1NAME="Варвара ТИМОШЕНКОВА" PCT_S2NAME="Варвара ТИМОШЕНКОВА" PCT_S3NAME="Варвара ТИМОШЕНКОВА" PCT_S4NAME="Варвара ТИМОШЕНКОВА" PCT_WFNAME="Тимошенкова" PCT_WGNAME="Варвара" PCT_INAME="ТИМОШЕНКОВА В." PCT_RNAME="ТИМОШЕНКОВА Варвара"
+PCT_CLBID="66811"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66811" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="72" PCT_ID="65739" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65739" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александра" PCT_FNAME="Финохина" PCT_BDAY="20060101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="А." PCT_FNAMEC="ФИНОХИНА" PCT_CNAME="Александра ФИНОХИНА" PCT_SNAME="ФИНОАЛЕК" PCT_PLNAME="Александра ФИНОХИНА" PCT_PSNAME="Александра ФИНОХИНА" PCT_TLNAME="Александра ФИНОХИНА" PCT_TSNAME="Александра ФИНОХИНА" PCT_S1NAME="Александра ФИНОХИНА" PCT_S2NAME="Александра ФИНОХИНА" PCT_S3NAME="Александра ФИНОХИНА" PCT_S4NAME="Александра ФИНОХИНА" PCT_WFNAME="Финохина" PCT_WGNAME="Александра" PCT_INAME="ФИНОХИНА А." PCT_RNAME="ФИНОХИНА Александра"
+PCT_CLBID="66812"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66812" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="73" PCT_ID="65051" CAT_ID="3395" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65051" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Яновская" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="Е." PCT_FNAMEC="ЯНОВСКАЯ" PCT_CNAME="Елизавета ЯНОВСКАЯ" PCT_SNAME="ЯНОВЕЛИЗ" PCT_PLNAME="Елизавета ЯНОВСКАЯ" PCT_PSNAME="Елизавета ЯНОВСКАЯ" PCT_TLNAME="Елизавета ЯНОВСКАЯ" PCT_TSNAME="Елизавета ЯНОВСКАЯ" PCT_S1NAME="Елизавета ЯНОВСКАЯ" PCT_S2NAME="Елизавета ЯНОВСКАЯ" PCT_S3NAME="Елизавета ЯНОВСКАЯ" PCT_S4NAME="Елизавета ЯНОВСКАЯ" PCT_WFNAME="Яновская" PCT_WGNAME="Елизавета" PCT_INAME="ЯНОВСКАЯ Е." PCT_RNAME="ЯНОВСКАЯ Елизавета"
+PCT_CLBID="66813"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66813" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="64"
+PAR_ID="64" SCP_ID="13" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="65"
+PAR_ID="65" SCP_ID="13" PRF_STNUM="9" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="66"
+PAR_ID="66" SCP_ID="13" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="67"
+PAR_ID="67" SCP_ID="13" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="68"
+PAR_ID="68" SCP_ID="13" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="69"
+PAR_ID="69" SCP_ID="13" PRF_STNUM="10" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="70"
+PAR_ID="70" SCP_ID="13" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="71"
+PAR_ID="71" SCP_ID="13" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="72"
+PAR_ID="72" SCP_ID="13" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="73"
+PAR_ID="73" SCP_ID="13" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3396" EVT_ID="507" CAT_NAME="1 юношеский разряд - мальчики, 2005 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="14" CAT_ID="3396" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="74" PCT_ID="65738" CAT_ID="3396" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65738" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Арсений" PCT_FNAME="Киселев" PCT_BDAY="20060101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="А." PCT_FNAMEC="КИСЕЛЕВ" PCT_CNAME="Арсений КИСЕЛЕВ" PCT_SNAME="КИСЕАРСЕ" PCT_PLNAME="Арсений КИСЕЛЕВ" PCT_PSNAME="Арсений КИСЕЛЕВ" PCT_TLNAME="Арсений КИСЕЛЕВ" PCT_TSNAME="Арсений КИСЕЛЕВ" PCT_S1NAME="Арсений КИСЕЛЕВ" PCT_S2NAME="Арсений КИСЕЛЕВ" PCT_S3NAME="Арсений КИСЕЛЕВ" PCT_S4NAME="Арсений КИСЕЛЕВ" PCT_WFNAME="Киселев" PCT_WGNAME="Арсений" PCT_INAME="КИСЕЛЕВ А." PCT_RNAME="КИСЕЛЕВ Арсений"
+PCT_CLBID="66814"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66814" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="75" PCT_ID="65736" CAT_ID="3396" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65736" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Сергей" PCT_FNAME="Лагутов" PCT_BDAY="20050101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="С." PCT_FNAMEC="ЛАГУТОВ" PCT_CNAME="Сергей ЛАГУТОВ" PCT_SNAME="ЛАГУСЕРГ" PCT_PLNAME="Сергей ЛАГУТОВ" PCT_PSNAME="Сергей ЛАГУТОВ" PCT_TLNAME="Сергей ЛАГУТОВ" PCT_TSNAME="Сергей ЛАГУТОВ" PCT_S1NAME="Сергей ЛАГУТОВ" PCT_S2NAME="Сергей ЛАГУТОВ" PCT_S3NAME="Сергей ЛАГУТОВ" PCT_S4NAME="Сергей ЛАГУТОВ" PCT_WFNAME="Лагутов" PCT_WGNAME="Сергей" PCT_INAME="ЛАГУТОВ С." PCT_RNAME="ЛАГУТОВ Сергей"
+PCT_CLBID="66815"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66815" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="76" PCT_ID="65737" CAT_ID="3396" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65737" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Никита" PCT_FNAME="Финохин" PCT_BDAY="20050101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Яковлева А.Г." PCT_GNAMEI="Н." PCT_FNAMEC="ФИНОХИН" PCT_CNAME="Никита ФИНОХИН" PCT_SNAME="ФИНОНИКИ" PCT_PLNAME="Никита ФИНОХИН" PCT_PSNAME="Никита ФИНОХИН" PCT_TLNAME="Никита ФИНОХИН" PCT_TSNAME="Никита ФИНОХИН" PCT_S1NAME="Никита ФИНОХИН" PCT_S2NAME="Никита ФИНОХИН" PCT_S3NAME="Никита ФИНОХИН" PCT_S4NAME="Никита ФИНОХИН" PCT_WFNAME="Финохин" PCT_WGNAME="Никита" PCT_INAME="ФИНОХИН Н." PCT_RNAME="ФИНОХИН Никита"
+PCT_CLBID="66816"
+PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+>
+<Club PCT_ID="66816" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_SNAME="ШФК ПАМЯ" PCT_PLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_PSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TLNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_TSNAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S1NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S2NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S3NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_S4NAME="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;" PCT_CSNAM="ШФК памяти Л.Пахомовой &quot;Юный Динамовец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="74"
+PAR_ID="74" SCP_ID="14" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="75"
+PAR_ID="75" SCP_ID="14" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="76"
+PAR_ID="76" SCP_ID="14" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3409" EVT_ID="507" CAT_NAME="1 юношеский разряд - девушки, 2004 г.р. и старше"
+>
+<Segments_List>
+<Segment SCP_ID="15" CAT_ID="3409" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="77" PCT_ID="65053" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65053" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Валерия" PCT_FNAME="Базарова" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="В." PCT_FNAMEC="БАЗАРОВА" PCT_CNAME="Валерия БАЗАРОВА" PCT_SNAME="БАЗАВАЛЕ" PCT_PLNAME="Валерия БАЗАРОВА" PCT_PSNAME="Валерия БАЗАРОВА" PCT_TLNAME="Валерия БАЗАРОВА" PCT_TSNAME="Валерия БАЗАРОВА" PCT_S1NAME="Валерия БАЗАРОВА" PCT_S2NAME="Валерия БАЗАРОВА" PCT_S3NAME="Валерия БАЗАРОВА" PCT_S4NAME="Валерия БАЗАРОВА" PCT_WFNAME="Базарова" PCT_WGNAME="Валерия" PCT_INAME="БАЗАРОВА В." PCT_RNAME="БАЗАРОВА Валерия"
+PCT_CLBID="66817"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66817" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="78" PCT_ID="65009" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65009" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Василиса" PCT_FNAME="Воронина" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Калашников И В" PCT_GNAMEI="В." PCT_FNAMEC="ВОРОНИНА" PCT_CNAME="Василиса ВОРОНИНА" PCT_SNAME="ВОРОВАСИ" PCT_PLNAME="Василиса ВОРОНИНА" PCT_PSNAME="Василиса ВОРОНИНА" PCT_TLNAME="Василиса ВОРОНИНА" PCT_TSNAME="Василиса ВОРОНИНА" PCT_S1NAME="Василиса ВОРОНИНА" PCT_S2NAME="Василиса ВОРОНИНА" PCT_S3NAME="Василиса ВОРОНИНА" PCT_S4NAME="Василиса ВОРОНИНА" PCT_WFNAME="Воронина" PCT_WGNAME="Василиса" PCT_INAME="ВОРОНИНА В." PCT_RNAME="ВОРОНИНА Василиса"
+PCT_CLBID="66818"
+PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+>
+<Club PCT_ID="66818" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ЧШФК &quot;Грация&quot;" PCT_SNAME="ЧШФК &quot;ГР" PCT_PLNAME="ЧШФК &quot;Грация&quot;" PCT_PSNAME="ЧШФК &quot;Грация&quot;" PCT_TLNAME="ЧШФК &quot;Грация&quot;" PCT_TSNAME="ЧШФК &quot;Грация&quot;" PCT_S1NAME="ЧШФК &quot;Грация&quot;" PCT_S2NAME="ЧШФК &quot;Грация&quot;" PCT_S3NAME="ЧШФК &quot;Грация&quot;" PCT_S4NAME="ЧШФК &quot;Грация&quot;" PCT_CSNAM="ЧШФК &quot;Грация&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="79" PCT_ID="65360" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65360" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="София" PCT_FNAME="Гордовенко" PCT_BDAY="20030822" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Лившина Д.Е." PCT_GNAMEI="С." PCT_FNAMEC="ГОРДОВЕНКО" PCT_CNAME="София ГОРДОВЕНКО" PCT_SNAME="ГОРДСОФИ" PCT_PLNAME="София ГОРДОВЕНКО" PCT_PSNAME="София ГОРДОВЕНКО" PCT_TLNAME="София ГОРДОВЕНКО" PCT_TSNAME="София ГОРДОВЕНКО" PCT_S1NAME="София ГОРДОВЕНКО" PCT_S2NAME="София ГОРДОВЕНКО" PCT_S3NAME="София ГОРДОВЕНКО" PCT_S4NAME="София ГОРДОВЕНКО" PCT_WFNAME="Гордовенко" PCT_WGNAME="София" PCT_INAME="ГОРДОВЕНКО С." PCT_RNAME="ГОРДОВЕНКО София"
+PCT_CLBID="66819"
+PCT_CSNAM="СДЮСШОР &quot;Олимпиец&quot;"
+>
+<Club PCT_ID="66819" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_SNAME="СДЮСШОР " PCT_PLNAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_PSNAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_TLNAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_TSNAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_S1NAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_S2NAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_S3NAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_S4NAME="СДЮСШОР &quot;Олимпиец&quot;" PCT_CSNAM="СДЮСШОР &quot;Олимпиец&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="80" PCT_ID="65779" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65779" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Дарья" PCT_FNAME="Новикова" PCT_BDAY="20020101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="Д." PCT_FNAMEC="НОВИКОВА" PCT_CNAME="Дарья НОВИКОВА" PCT_SNAME="НОВИДАРЬ" PCT_PLNAME="Дарья НОВИКОВА" PCT_PSNAME="Дарья НОВИКОВА" PCT_TLNAME="Дарья НОВИКОВА" PCT_TSNAME="Дарья НОВИКОВА" PCT_S1NAME="Дарья НОВИКОВА" PCT_S2NAME="Дарья НОВИКОВА" PCT_S3NAME="Дарья НОВИКОВА" PCT_S4NAME="Дарья НОВИКОВА" PCT_WFNAME="Новикова" PCT_WGNAME="Дарья" PCT_INAME="НОВИКОВА Д." PCT_RNAME="НОВИКОВА Дарья"
+PCT_CLBID="66820"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66820" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="81" PCT_ID="65778" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65778" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Наталья" PCT_FNAME="Сентюрина" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="Н." PCT_FNAMEC="СЕНТЮРИНА" PCT_CNAME="Наталья СЕНТЮРИНА" PCT_SNAME="СЕНТНАТА" PCT_PLNAME="Наталья СЕНТЮРИНА" PCT_PSNAME="Наталья СЕНТЮРИНА" PCT_TLNAME="Наталья СЕНТЮРИНА" PCT_TSNAME="Наталья СЕНТЮРИНА" PCT_S1NAME="Наталья СЕНТЮРИНА" PCT_S2NAME="Наталья СЕНТЮРИНА" PCT_S3NAME="Наталья СЕНТЮРИНА" PCT_S4NAME="Наталья СЕНТЮРИНА" PCT_WFNAME="Сентюрина" PCT_WGNAME="Наталья" PCT_INAME="СЕНТЮРИНА Н." PCT_RNAME="СЕНТЮРИНА Наталья"
+PCT_CLBID="66821"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66821" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="82" PCT_ID="65361" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65361" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Алина" PCT_FNAME="Стэльмах" PCT_BDAY="20040730" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сухомлинов А. А." PCT_GNAMEI="А." PCT_FNAMEC="СТЭЛЬМАХ" PCT_CNAME="Алина СТЭЛЬМАХ" PCT_SNAME="СТЭЛАЛИН" PCT_PLNAME="Алина СТЭЛЬМАХ" PCT_PSNAME="Алина СТЭЛЬМАХ" PCT_TLNAME="Алина СТЭЛЬМАХ" PCT_TSNAME="Алина СТЭЛЬМАХ" PCT_S1NAME="Алина СТЭЛЬМАХ" PCT_S2NAME="Алина СТЭЛЬМАХ" PCT_S3NAME="Алина СТЭЛЬМАХ" PCT_S4NAME="Алина СТЭЛЬМАХ" PCT_WFNAME="Стэльмах" PCT_WGNAME="Алина" PCT_INAME="СТЭЛЬМАХ А." PCT_RNAME="СТЭЛЬМАХ Алина"
+PCT_CLBID="66822"
+PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+>
+<Club PCT_ID="66822" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="РОО &quot;ФФКСО&quot;" PCT_SNAME="РОО &quot;ФФК" PCT_PLNAME="РОО &quot;ФФКСО&quot;" PCT_PSNAME="РОО &quot;ФФКСО&quot;" PCT_TLNAME="РОО &quot;ФФКСО&quot;" PCT_TSNAME="РОО &quot;ФФКСО&quot;" PCT_S1NAME="РОО &quot;ФФКСО&quot;" PCT_S2NAME="РОО &quot;ФФКСО&quot;" PCT_S3NAME="РОО &quot;ФФКСО&quot;" PCT_S4NAME="РОО &quot;ФФКСО&quot;" PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="83" PCT_ID="65550" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65550" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Варвара" PCT_FNAME="Федотова" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Кузнецова" PCT_GNAMEI="В." PCT_FNAMEC="ФЕДОТОВА" PCT_CNAME="Варвара ФЕДОТОВА" PCT_SNAME="ФЕДОВАРВ" PCT_PLNAME="Варвара ФЕДОТОВА" PCT_PSNAME="Варвара ФЕДОТОВА" PCT_TLNAME="Варвара ФЕДОТОВА" PCT_TSNAME="Варвара ФЕДОТОВА" PCT_S1NAME="Варвара ФЕДОТОВА" PCT_S2NAME="Варвара ФЕДОТОВА" PCT_S3NAME="Варвара ФЕДОТОВА" PCT_S4NAME="Варвара ФЕДОТОВА" PCT_WFNAME="Федотова" PCT_WGNAME="Варвара" PCT_INAME="ФЕДОТОВА В." PCT_RNAME="ФЕДОТОВА Варвара"
+PCT_CLBID="66823"
+PCT_CSNAM="Самбо 70 &quot;Конек Чайковской&quot;"
+>
+<Club PCT_ID="66823" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_SNAME="САМБО 70" PCT_PLNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_PSNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_TLNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_TSNAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S1NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S2NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S3NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_S4NAME="Самбо 70 &quot;Конек Чайковской&quot;" PCT_CSNAM="Самбо 70 &quot;Конек Чайковской&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="84" PCT_ID="65780" CAT_ID="3409" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65780" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Светлана" PCT_FNAME="Шеметова" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Старова Ю.А." PCT_GNAMEI="С." PCT_FNAMEC="ШЕМЕТОВА" PCT_CNAME="Светлана ШЕМЕТОВА" PCT_SNAME="ШЕМЕСВЕТ" PCT_PLNAME="Светлана ШЕМЕТОВА" PCT_PSNAME="Светлана ШЕМЕТОВА" PCT_TLNAME="Светлана ШЕМЕТОВА" PCT_TSNAME="Светлана ШЕМЕТОВА" PCT_S1NAME="Светлана ШЕМЕТОВА" PCT_S2NAME="Светлана ШЕМЕТОВА" PCT_S3NAME="Светлана ШЕМЕТОВА" PCT_S4NAME="Светлана ШЕМЕТОВА" PCT_WFNAME="Шеметова" PCT_WGNAME="Светлана" PCT_INAME="ШЕМЕТОВА С." PCT_RNAME="ШЕМЕТОВА Светлана"
+PCT_CLBID="66824"
+PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+>
+<Club PCT_ID="66824" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Центр&quot;" PCT_SNAME="ДЮСШ &quot;ЦЕ" PCT_PLNAME="ДЮСШ &quot;Центр&quot;" PCT_PSNAME="ДЮСШ &quot;Центр&quot;" PCT_TLNAME="ДЮСШ &quot;Центр&quot;" PCT_TSNAME="ДЮСШ &quot;Центр&quot;" PCT_S1NAME="ДЮСШ &quot;Центр&quot;" PCT_S2NAME="ДЮСШ &quot;Центр&quot;" PCT_S3NAME="ДЮСШ &quot;Центр&quot;" PCT_S4NAME="ДЮСШ &quot;Центр&quot;" PCT_CSNAM="ДЮСШ &quot;Центр&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="77"
+PAR_ID="77" SCP_ID="15" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="78"
+PAR_ID="78" SCP_ID="15" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="79"
+PAR_ID="79" SCP_ID="15" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="80"
+PAR_ID="80" SCP_ID="15" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="81"
+PAR_ID="81" SCP_ID="15" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="82"
+PAR_ID="82" SCP_ID="15" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="83"
+PAR_ID="83" SCP_ID="15" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="84"
+PAR_ID="84" SCP_ID="15" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3410" EVT_ID="507" CAT_NAME="1 юношеский разряд - юноши, 2004 г.р. и старше"
+>
+<Segments_List>
+<Segment SCP_ID="16" CAT_ID="3410" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="85" PCT_ID="65353" CAT_ID="3410" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65353" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Сергей" PCT_FNAME="Аргунов" PCT_BDAY="20031219" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Сухомлинов А.А." PCT_GNAMEI="С." PCT_FNAMEC="АРГУНОВ" PCT_CNAME="Сергей АРГУНОВ" PCT_SNAME="АРГУСЕРГ" PCT_PLNAME="Сергей АРГУНОВ" PCT_PSNAME="Сергей АРГУНОВ" PCT_TLNAME="Сергей АРГУНОВ" PCT_TSNAME="Сергей АРГУНОВ" PCT_S1NAME="Сергей АРГУНОВ" PCT_S2NAME="Сергей АРГУНОВ" PCT_S3NAME="Сергей АРГУНОВ" PCT_S4NAME="Сергей АРГУНОВ" PCT_WFNAME="Аргунов" PCT_WGNAME="Сергей" PCT_INAME="АРГУНОВ С." PCT_RNAME="АРГУНОВ Сергей"
+PCT_CLBID="66825"
+PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+>
+<Club PCT_ID="66825" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="РОО &quot;ФФКСО&quot;" PCT_SNAME="РОО &quot;ФФК" PCT_PLNAME="РОО &quot;ФФКСО&quot;" PCT_PSNAME="РОО &quot;ФФКСО&quot;" PCT_TLNAME="РОО &quot;ФФКСО&quot;" PCT_TSNAME="РОО &quot;ФФКСО&quot;" PCT_S1NAME="РОО &quot;ФФКСО&quot;" PCT_S2NAME="РОО &quot;ФФКСО&quot;" PCT_S3NAME="РОО &quot;ФФКСО&quot;" PCT_S4NAME="РОО &quot;ФФКСО&quot;" PCT_CSNAM="РОО &quot;ФФКСО&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="85"
+PAR_ID="85" SCP_ID="16" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3397" EVT_ID="507" CAT_NAME="2 спортивный разряд - девочки, 2004 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="17" CAT_ID="3397" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="86" PCT_ID="65045" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65045" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Архипова" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="Е." PCT_FNAMEC="АРХИПОВА" PCT_CNAME="Елизавета АРХИПОВА" PCT_SNAME="АРХИЕЛИЗ" PCT_PLNAME="Елизавета АРХИПОВА" PCT_PSNAME="Елизавета АРХИПОВА" PCT_TLNAME="Елизавета АРХИПОВА" PCT_TSNAME="Елизавета АРХИПОВА" PCT_S1NAME="Елизавета АРХИПОВА" PCT_S2NAME="Елизавета АРХИПОВА" PCT_S3NAME="Елизавета АРХИПОВА" PCT_S4NAME="Елизавета АРХИПОВА" PCT_WFNAME="Архипова" PCT_WGNAME="Елизавета" PCT_INAME="АРХИПОВА Е." PCT_RNAME="АРХИПОВА Елизавета"
+PCT_CLBID="66826"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66826" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="87" PCT_ID="65049" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65049" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Ульяна" PCT_FNAME="Батищева" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="У." PCT_FNAMEC="БАТИЩЕВА" PCT_CNAME="Ульяна БАТИЩЕВА" PCT_SNAME="БАТИУЛЬЯ" PCT_PLNAME="Ульяна БАТИЩЕВА" PCT_PSNAME="Ульяна БАТИЩЕВА" PCT_TLNAME="Ульяна БАТИЩЕВА" PCT_TSNAME="Ульяна БАТИЩЕВА" PCT_S1NAME="Ульяна БАТИЩЕВА" PCT_S2NAME="Ульяна БАТИЩЕВА" PCT_S3NAME="Ульяна БАТИЩЕВА" PCT_S4NAME="Ульяна БАТИЩЕВА" PCT_WFNAME="Батищева" PCT_WGNAME="Ульяна" PCT_INAME="БАТИЩЕВА У." PCT_RNAME="БАТИЩЕВА Ульяна"
+PCT_CLBID="66827"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66827" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="88" PCT_ID="65492" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65492" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Ульяна" PCT_FNAME="Благодатская" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="У." PCT_FNAMEC="БЛАГОДАТСКАЯ" PCT_CNAME="Ульяна БЛАГОДАТСКАЯ" PCT_SNAME="БЛАГУЛЬЯ" PCT_PLNAME="Ульяна БЛАГОДАТСКАЯ" PCT_PSNAME="Ульяна БЛАГОДАТСКАЯ" PCT_TLNAME="Ульяна БЛАГОДАТСКАЯ" PCT_TSNAME="Ульяна БЛАГОДАТСКАЯ" PCT_S1NAME="Ульяна БЛАГОДАТСКАЯ" PCT_S2NAME="Ульяна БЛАГОДАТСКАЯ" PCT_S3NAME="Ульяна БЛАГОДАТСКАЯ" PCT_S4NAME="Ульяна БЛАГОДАТСКАЯ" PCT_WFNAME="Благодатская" PCT_WGNAME="Ульяна" PCT_INAME="БЛАГОДАТСКАЯ У." PCT_RNAME="БЛАГОДАТСКАЯ Ульяна"
+PCT_CLBID="66828"
+PCT_CSNAM="Конек Чайковской"
+>
+<Club PCT_ID="66828" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Конек Чайковской" PCT_SNAME="КОНЕК ЧА" PCT_PLNAME="Конек Чайковской" PCT_PSNAME="Конек Чайковской" PCT_TLNAME="Конек Чайковской" PCT_TSNAME="Конек Чайковской" PCT_S1NAME="Конек Чайковской" PCT_S2NAME="Конек Чайковской" PCT_S3NAME="Конек Чайковской" PCT_S4NAME="Конек Чайковской" PCT_CSNAM="Конек Чайковской"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="89" PCT_ID="65491" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65491" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Дарья" PCT_FNAME="Богданова" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="Д." PCT_FNAMEC="БОГДАНОВА" PCT_CNAME="Дарья БОГДАНОВА" PCT_SNAME="БОГДДАРЬ" PCT_PLNAME="Дарья БОГДАНОВА" PCT_PSNAME="Дарья БОГДАНОВА" PCT_TLNAME="Дарья БОГДАНОВА" PCT_TSNAME="Дарья БОГДАНОВА" PCT_S1NAME="Дарья БОГДАНОВА" PCT_S2NAME="Дарья БОГДАНОВА" PCT_S3NAME="Дарья БОГДАНОВА" PCT_S4NAME="Дарья БОГДАНОВА" PCT_WFNAME="Богданова" PCT_WGNAME="Дарья" PCT_INAME="БОГДАНОВА Д." PCT_RNAME="БОГДАНОВА Дарья"
+PCT_CLBID="66829"
+PCT_CSNAM="Конек Чайковской"
+>
+<Club PCT_ID="66829" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Конек Чайковской" PCT_SNAME="КОНЕК ЧА" PCT_PLNAME="Конек Чайковской" PCT_PSNAME="Конек Чайковской" PCT_TLNAME="Конек Чайковской" PCT_TSNAME="Конек Чайковской" PCT_S1NAME="Конек Чайковской" PCT_S2NAME="Конек Чайковской" PCT_S3NAME="Конек Чайковской" PCT_S4NAME="Конек Чайковской" PCT_CSNAM="Конек Чайковской"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="90" PCT_ID="65842" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65842" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Дарья" PCT_FNAME="Графова" PCT_BDAY="20050101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Тимофеева А.М" PCT_GNAMEI="Д." PCT_FNAMEC="ГРАФОВА" PCT_CNAME="Дарья ГРАФОВА" PCT_SNAME="ГРАФДАРЬ" PCT_PLNAME="Дарья ГРАФОВА" PCT_PSNAME="Дарья ГРАФОВА" PCT_TLNAME="Дарья ГРАФОВА" PCT_TSNAME="Дарья ГРАФОВА" PCT_S1NAME="Дарья ГРАФОВА" PCT_S2NAME="Дарья ГРАФОВА" PCT_S3NAME="Дарья ГРАФОВА" PCT_S4NAME="Дарья ГРАФОВА" PCT_WFNAME="Графова" PCT_WGNAME="Дарья" PCT_INAME="ГРАФОВА Д." PCT_RNAME="ГРАФОВА Дарья"
+PCT_CLBID="66830"
+PCT_CSNAM="ГБУ Сшор трудовые резервы"
+>
+<Club PCT_ID="66830" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ Сшор трудовые резервы" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ Сшор трудовые резервы" PCT_PSNAME="ГБУ Сшор трудовые резервы" PCT_TLNAME="ГБУ Сшор трудовые резервы" PCT_TSNAME="ГБУ Сшор трудовые резервы" PCT_S1NAME="ГБУ Сшор трудовые резервы" PCT_S2NAME="ГБУ Сшор трудовые резервы" PCT_S3NAME="ГБУ Сшор трудовые резервы" PCT_S4NAME="ГБУ Сшор трудовые резервы" PCT_CSNAM="ГБУ Сшор трудовые резервы"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="91" PCT_ID="65050" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65050" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Надежда" PCT_FNAME="Зорова" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="Н." PCT_FNAMEC="ЗОРОВА" PCT_CNAME="Надежда ЗОРОВА" PCT_SNAME="ЗОРОНАДЕ" PCT_PLNAME="Надежда ЗОРОВА" PCT_PSNAME="Надежда ЗОРОВА" PCT_TLNAME="Надежда ЗОРОВА" PCT_TSNAME="Надежда ЗОРОВА" PCT_S1NAME="Надежда ЗОРОВА" PCT_S2NAME="Надежда ЗОРОВА" PCT_S3NAME="Надежда ЗОРОВА" PCT_S4NAME="Надежда ЗОРОВА" PCT_WFNAME="Зорова" PCT_WGNAME="Надежда" PCT_INAME="ЗОРОВА Н." PCT_RNAME="ЗОРОВА Надежда"
+PCT_CLBID="66831"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66831" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="92" PCT_ID="65078" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65078" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Маргарита" PCT_FNAME="Кудимова" PCT_BDAY="20040904" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="М." PCT_FNAMEC="КУДИМОВА" PCT_CNAME="Маргарита КУДИМОВА" PCT_SNAME="КУДИМАРГ" PCT_PLNAME="Маргарита КУДИМОВА" PCT_PSNAME="Маргарита КУДИМОВА" PCT_TLNAME="Маргарита КУДИМОВА" PCT_TSNAME="Маргарита КУДИМОВА" PCT_S1NAME="Маргарита КУДИМОВА" PCT_S2NAME="Маргарита КУДИМОВА" PCT_S3NAME="Маргарита КУДИМОВА" PCT_S4NAME="Маргарита КУДИМОВА" PCT_WFNAME="Кудимова" PCT_WGNAME="Маргарита" PCT_INAME="КУДИМОВА М." PCT_RNAME="КУДИМОВА Маргарита"
+PCT_CLBID="66832"
+PCT_CSNAM="Личная заявка"
+>
+<Club PCT_ID="66832" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная заявка" PCT_SNAME="ЛИЧНАЯ З" PCT_PLNAME="Личная заявка" PCT_PSNAME="Личная заявка" PCT_TLNAME="Личная заявка" PCT_TSNAME="Личная заявка" PCT_S1NAME="Личная заявка" PCT_S2NAME="Личная заявка" PCT_S3NAME="Личная заявка" PCT_S4NAME="Личная заявка" PCT_CSNAM="Личная заявка"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="93" PCT_ID="65102" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65102" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Ульяна" PCT_FNAME="Огорелышева" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="У." PCT_FNAMEC="ОГОРЕЛЫШЕВА" PCT_CNAME="Ульяна ОГОРЕЛЫШЕВА" PCT_SNAME="ОГОРУЛЬЯ" PCT_PLNAME="Ульяна ОГОРЕЛЫШЕВА" PCT_PSNAME="Ульяна ОГОРЕЛЫШЕВА" PCT_TLNAME="Ульяна ОГОРЕЛЫШЕВА" PCT_TSNAME="Ульяна ОГОРЕЛЫШЕВА" PCT_S1NAME="Ульяна ОГОРЕЛЫШЕВА" PCT_S2NAME="Ульяна ОГОРЕЛЫШЕВА" PCT_S3NAME="Ульяна ОГОРЕЛЫШЕВА" PCT_S4NAME="Ульяна ОГОРЕЛЫШЕВА" PCT_WFNAME="Огорелышева" PCT_WGNAME="Ульяна" PCT_INAME="ОГОРЕЛЫШЕВА У." PCT_RNAME="ОГОРЕЛЫШЕВА Ульяна"
+PCT_CLBID="66833"
+PCT_CSNAM="СШОР 1"
+>
+<Club PCT_ID="66833" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="СШОР 1" PCT_SNAME="СШОР 1" PCT_PLNAME="СШОР 1" PCT_PSNAME="СШОР 1" PCT_TLNAME="СШОР 1" PCT_TSNAME="СШОР 1" PCT_S1NAME="СШОР 1" PCT_S2NAME="СШОР 1" PCT_S3NAME="СШОР 1" PCT_S4NAME="СШОР 1" PCT_CSNAM="СШОР 1"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="94" PCT_ID="66740" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="66740" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Ольга" PCT_FNAME="Рудь" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Коробкова С.М." PCT_GNAMEI="О." PCT_FNAMEC="РУДЬ" PCT_CNAME="Ольга РУДЬ" PCT_SNAME="РУДЬОЛЬГ" PCT_PLNAME="Ольга РУДЬ" PCT_PSNAME="Ольга РУДЬ" PCT_TLNAME="Ольга РУДЬ" PCT_TSNAME="Ольга РУДЬ" PCT_S1NAME="Ольга РУДЬ" PCT_S2NAME="Ольга РУДЬ" PCT_S3NAME="Ольга РУДЬ" PCT_S4NAME="Ольга РУДЬ" PCT_WFNAME="Рудь" PCT_WGNAME="Ольга" PCT_INAME="РУДЬ О." PCT_RNAME="РУДЬ Ольга"
+PCT_CLBID="66834"
+PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+>
+<Club PCT_ID="66834" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="95" PCT_ID="65031" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65031" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Анна" PCT_FNAME="Смирнова" PCT_BDAY="20040101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Четверухин- Казакова" PCT_GNAMEI="А." PCT_FNAMEC="СМИРНОВА" PCT_CNAME="Анна СМИРНОВА" PCT_SNAME="СМИРАННА" PCT_PLNAME="Анна СМИРНОВА" PCT_PSNAME="Анна СМИРНОВА" PCT_TLNAME="Анна СМИРНОВА" PCT_TSNAME="Анна СМИРНОВА" PCT_S1NAME="Анна СМИРНОВА" PCT_S2NAME="Анна СМИРНОВА" PCT_S3NAME="Анна СМИРНОВА" PCT_S4NAME="Анна СМИРНОВА" PCT_WFNAME="Смирнова" PCT_WGNAME="Анна" PCT_INAME="СМИРНОВА А." PCT_RNAME="СМИРНОВА Анна"
+PCT_CLBID="66835"
+PCT_CSNAM="Самбо 70 конек чайковской"
+>
+<Club PCT_ID="66835" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Самбо 70 конек чайковской" PCT_SNAME="САМБО 70" PCT_PLNAME="Самбо 70 конек чайковской" PCT_PSNAME="Самбо 70 конек чайковской" PCT_TLNAME="Самбо 70 конек чайковской" PCT_TSNAME="Самбо 70 конек чайковской" PCT_S1NAME="Самбо 70 конек чайковской" PCT_S2NAME="Самбо 70 конек чайковской" PCT_S3NAME="Самбо 70 конек чайковской" PCT_S4NAME="Самбо 70 конек чайковской" PCT_CSNAM="Самбо 70 конек чайковской"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="96" PCT_ID="65105" CAT_ID="3397" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65105" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Цыганова" PCT_BDAY="20040628" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Сапронова О.С." PCT_GNAMEI="Е." PCT_FNAMEC="ЦЫГАНОВА" PCT_CNAME="Елизавета ЦЫГАНОВА" PCT_SNAME="ЦЫГАЕЛИЗ" PCT_PLNAME="Елизавета ЦЫГАНОВА" PCT_PSNAME="Елизавета ЦЫГАНОВА" PCT_TLNAME="Елизавета ЦЫГАНОВА" PCT_TSNAME="Елизавета ЦЫГАНОВА" PCT_S1NAME="Елизавета ЦЫГАНОВА" PCT_S2NAME="Елизавета ЦЫГАНОВА" PCT_S3NAME="Елизавета ЦЫГАНОВА" PCT_S4NAME="Елизавета ЦЫГАНОВА" PCT_WFNAME="Цыганова" PCT_WGNAME="Елизавета" PCT_INAME="ЦЫГАНОВА Е." PCT_RNAME="ЦЫГАНОВА Елизавета"
+PCT_CLBID="66836"
+PCT_CSNAM="УОР 4"
+>
+<Club PCT_ID="66836" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="УОР 4" PCT_SNAME="УОР 4" PCT_PLNAME="УОР 4" PCT_PSNAME="УОР 4" PCT_TLNAME="УОР 4" PCT_TSNAME="УОР 4" PCT_S1NAME="УОР 4" PCT_S2NAME="УОР 4" PCT_S3NAME="УОР 4" PCT_S4NAME="УОР 4" PCT_CSNAM="УОР 4"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="86"
+PAR_ID="86" SCP_ID="17" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="87"
+PAR_ID="87" SCP_ID="17" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="88"
+PAR_ID="88" SCP_ID="17" PRF_STNUM="10" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="89"
+PAR_ID="89" SCP_ID="17" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="90"
+PAR_ID="90" SCP_ID="17" PRF_STNUM="9" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="91"
+PAR_ID="91" SCP_ID="17" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="92"
+PAR_ID="92" SCP_ID="17" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="93"
+PAR_ID="93" SCP_ID="17" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="94"
+PAR_ID="94" SCP_ID="17" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="95"
+PAR_ID="95" SCP_ID="17" PRF_STNUM="11" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="96"
+PAR_ID="96" SCP_ID="17" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3398" EVT_ID="507" CAT_NAME="2 спортивный разряд - юноши, 2004 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="18" CAT_ID="3398" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="97" PCT_ID="65229" CAT_ID="3398" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65229" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александр" PCT_FNAME="Горбов" PCT_BDAY="20041017" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Черкасова Марина Евгеньевна" PCT_GNAMEI="А." PCT_FNAMEC="ГОРБОВ" PCT_CNAME="Александр ГОРБОВ" PCT_SNAME="ГОРБАЛЕК" PCT_PLNAME="Александр ГОРБОВ" PCT_PSNAME="Александр ГОРБОВ" PCT_TLNAME="Александр ГОРБОВ" PCT_TSNAME="Александр ГОРБОВ" PCT_S1NAME="Александр ГОРБОВ" PCT_S2NAME="Александр ГОРБОВ" PCT_S3NAME="Александр ГОРБОВ" PCT_S4NAME="Александр ГОРБОВ" PCT_WFNAME="Горбов" PCT_WGNAME="Александр" PCT_INAME="ГОРБОВ А." PCT_RNAME="ГОРБОВ Александр"
+PCT_CLBID="66837"
+PCT_CSNAM="Личная заявка"
+>
+<Club PCT_ID="66837" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная заявка" PCT_SNAME="ЛИЧНАЯ З" PCT_PLNAME="Личная заявка" PCT_PSNAME="Личная заявка" PCT_TLNAME="Личная заявка" PCT_TSNAME="Личная заявка" PCT_S1NAME="Личная заявка" PCT_S2NAME="Личная заявка" PCT_S3NAME="Личная заявка" PCT_S4NAME="Личная заявка" PCT_CSNAM="Личная заявка"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="97"
+PAR_ID="97" SCP_ID="18" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3399" EVT_ID="507" CAT_NAME="1 спортивный разряд - девушки, 2002 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="19" CAT_ID="3399" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="98" PCT_ID="65058" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65058" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Полина" PCT_FNAME="Антипова" PCT_BDAY="20020111" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="П." PCT_FNAMEC="АНТИПОВА" PCT_CNAME="Полина АНТИПОВА" PCT_SNAME="АНТИПОЛИ" PCT_PLNAME="Полина АНТИПОВА" PCT_PSNAME="Полина АНТИПОВА" PCT_TLNAME="Полина АНТИПОВА" PCT_TSNAME="Полина АНТИПОВА" PCT_S1NAME="Полина АНТИПОВА" PCT_S2NAME="Полина АНТИПОВА" PCT_S3NAME="Полина АНТИПОВА" PCT_S4NAME="Полина АНТИПОВА" PCT_WFNAME="Антипова" PCT_WGNAME="Полина" PCT_INAME="АНТИПОВА П." PCT_RNAME="АНТИПОВА Полина"
+PCT_CLBID="66838"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66838" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="99" PCT_ID="65705" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65705" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Кристина" PCT_FNAME="Бурцева" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Четверухин-Казакова" PCT_GNAMEI="К." PCT_FNAMEC="БУРЦЕВА" PCT_CNAME="Кристина БУРЦЕВА" PCT_SNAME="БУРЦКРИС" PCT_PLNAME="Кристина БУРЦЕВА" PCT_PSNAME="Кристина БУРЦЕВА" PCT_TLNAME="Кристина БУРЦЕВА" PCT_TSNAME="Кристина БУРЦЕВА" PCT_S1NAME="Кристина БУРЦЕВА" PCT_S2NAME="Кристина БУРЦЕВА" PCT_S3NAME="Кристина БУРЦЕВА" PCT_S4NAME="Кристина БУРЦЕВА" PCT_WFNAME="Бурцева" PCT_WGNAME="Кристина" PCT_INAME="БУРЦЕВА К." PCT_RNAME="БУРЦЕВА Кристина"
+PCT_CLBID="66839"
+PCT_CSNAM="Конек Чайковской"
+>
+<Club PCT_ID="66839" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Конек Чайковской" PCT_SNAME="КОНЕК ЧА" PCT_PLNAME="Конек Чайковской" PCT_PSNAME="Конек Чайковской" PCT_TLNAME="Конек Чайковской" PCT_TSNAME="Конек Чайковской" PCT_S1NAME="Конек Чайковской" PCT_S2NAME="Конек Чайковской" PCT_S3NAME="Конек Чайковской" PCT_S4NAME="Конек Чайковской" PCT_CSNAM="Конек Чайковской"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="100" PCT_ID="66729" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="66729" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Настасья" PCT_FNAME="Еремина" PCT_BDAY="20020101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Ковалев С." PCT_GNAMEI="Н." PCT_FNAMEC="ЕРЕМИНА" PCT_CNAME="Настасья ЕРЕМИНА" PCT_SNAME="ЕРЕМНАСТ" PCT_PLNAME="Настасья ЕРЕМИНА" PCT_PSNAME="Настасья ЕРЕМИНА" PCT_TLNAME="Настасья ЕРЕМИНА" PCT_TSNAME="Настасья ЕРЕМИНА" PCT_S1NAME="Настасья ЕРЕМИНА" PCT_S2NAME="Настасья ЕРЕМИНА" PCT_S3NAME="Настасья ЕРЕМИНА" PCT_S4NAME="Настасья ЕРЕМИНА" PCT_WFNAME="Еремина" PCT_WGNAME="Настасья" PCT_INAME="ЕРЕМИНА Н." PCT_RNAME="ЕРЕМИНА Настасья"
+PCT_CLBID="66840"
+PCT_CSNAM="Москвич"
+>
+<Club PCT_ID="66840" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Москвич" PCT_SNAME="МОСКВИЧ" PCT_PLNAME="Москвич" PCT_PSNAME="Москвич" PCT_TLNAME="Москвич" PCT_TSNAME="Москвич" PCT_S1NAME="Москвич" PCT_S2NAME="Москвич" PCT_S3NAME="Москвич" PCT_S4NAME="Москвич" PCT_CSNAM="Москвич"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="101" PCT_ID="65371" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65371" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александра" PCT_FNAME="Ермакова" PCT_BDAY="20020101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Федорченко Л.А." PCT_GNAMEI="А." PCT_FNAMEC="ЕРМАКОВА" PCT_CNAME="Александра ЕРМАКОВА" PCT_SNAME="ЕРМААЛЕК" PCT_PLNAME="Александра ЕРМАКОВА" PCT_PSNAME="Александра ЕРМАКОВА" PCT_TLNAME="Александра ЕРМАКОВА" PCT_TSNAME="Александра ЕРМАКОВА" PCT_S1NAME="Александра ЕРМАКОВА" PCT_S2NAME="Александра ЕРМАКОВА" PCT_S3NAME="Александра ЕРМАКОВА" PCT_S4NAME="Александра ЕРМАКОВА" PCT_WFNAME="Ермакова" PCT_WGNAME="Александра" PCT_INAME="ЕРМАКОВА А." PCT_RNAME="ЕРМАКОВА Александра"
+PCT_CLBID="66841"
+PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+>
+<Club PCT_ID="66841" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_SNAME="СДЮШОР &quot;" PCT_PLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_PSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S1NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S2NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S3NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S4NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="102" PCT_ID="65241" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65241" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Софья" PCT_FNAME="Калякина" PCT_BDAY="20030522" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Буцаева В.Е. " PCT_GNAMEI="С." PCT_FNAMEC="КАЛЯКИНА" PCT_CNAME="Софья КАЛЯКИНА" PCT_SNAME="КАЛЯСОФЬ" PCT_PLNAME="Софья КАЛЯКИНА" PCT_PSNAME="Софья КАЛЯКИНА" PCT_TLNAME="Софья КАЛЯКИНА" PCT_TSNAME="Софья КАЛЯКИНА" PCT_S1NAME="Софья КАЛЯКИНА" PCT_S2NAME="Софья КАЛЯКИНА" PCT_S3NAME="Софья КАЛЯКИНА" PCT_S4NAME="Софья КАЛЯКИНА" PCT_WFNAME="Калякина" PCT_WGNAME="Софья" PCT_INAME="КАЛЯКИНА С." PCT_RNAME="КАЛЯКИНА Софья"
+PCT_CLBID="66842"
+PCT_CSNAM="Москвич"
+>
+<Club PCT_ID="66842" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Москвич" PCT_SNAME="МОСКВИЧ" PCT_PLNAME="Москвич" PCT_PSNAME="Москвич" PCT_TLNAME="Москвич" PCT_TSNAME="Москвич" PCT_S1NAME="Москвич" PCT_S2NAME="Москвич" PCT_S3NAME="Москвич" PCT_S4NAME="Москвич" PCT_CSNAM="Москвич"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="103" PCT_ID="65323" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65323" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Дарья" PCT_FNAME="Касьяненко" PCT_BDAY="20021226" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="Д." PCT_FNAMEC="КАСЬЯНЕНКО" PCT_CNAME="Дарья КАСЬЯНЕНКО" PCT_SNAME="КАСЬДАРЬ" PCT_PLNAME="Дарья КАСЬЯНЕНКО" PCT_PSNAME="Дарья КАСЬЯНЕНКО" PCT_TLNAME="Дарья КАСЬЯНЕНКО" PCT_TSNAME="Дарья КАСЬЯНЕНКО" PCT_S1NAME="Дарья КАСЬЯНЕНКО" PCT_S2NAME="Дарья КАСЬЯНЕНКО" PCT_S3NAME="Дарья КАСЬЯНЕНКО" PCT_S4NAME="Дарья КАСЬЯНЕНКО" PCT_WFNAME="Касьяненко" PCT_WGNAME="Дарья" PCT_INAME="КАСЬЯНЕНКО Д." PCT_RNAME="КАСЬЯНЕНКО Дарья"
+PCT_CLBID="66843"
+PCT_CSNAM="Личная"
+>
+<Club PCT_ID="66843" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная" PCT_SNAME="ЛИЧНАЯ" PCT_PLNAME="Личная" PCT_PSNAME="Личная" PCT_TLNAME="Личная" PCT_TSNAME="Личная" PCT_S1NAME="Личная" PCT_S2NAME="Личная" PCT_S3NAME="Личная" PCT_S4NAME="Личная" PCT_CSNAM="Личная"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="104" PCT_ID="65256" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65256" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Алина В/к" PCT_FNAME="Кирпиченко" PCT_BDAY="20000101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Кузнецова" PCT_GNAMEI="А." PCT_FNAMEC="КИРПИЧЕНКО" PCT_CNAME="Алина В/к КИРПИЧЕНКО" PCT_SNAME="КИРПАЛИН" PCT_PLNAME="Алина В/к КИРПИЧЕНКО" PCT_PSNAME="Алина В/к КИРПИЧЕНКО" PCT_TLNAME="Алина В/к КИРПИЧЕНКО" PCT_TSNAME="Алина В/к КИРПИЧЕНКО" PCT_S1NAME="Алина В/к КИРПИЧЕНКО" PCT_S2NAME="Алина В/к КИРПИЧЕНКО" PCT_S3NAME="Алина В/к КИРПИЧЕНКО" PCT_S4NAME="Алина В/к КИРПИЧЕНКО" PCT_WFNAME="Кирпиченко" PCT_WGNAME="Алина В/к" PCT_INAME="КИРПИЧЕНКО А." PCT_RNAME="КИРПИЧЕНКО Алина В/к"
+PCT_CLBID="66844"
+PCT_CSNAM="ДЮСШ ФКиК"
+>
+<Club PCT_ID="66844" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ ФКиК" PCT_SNAME="ДЮСШ ФКИ" PCT_PLNAME="ДЮСШ ФКиК" PCT_PSNAME="ДЮСШ ФКиК" PCT_TLNAME="ДЮСШ ФКиК" PCT_TSNAME="ДЮСШ ФКиК" PCT_S1NAME="ДЮСШ ФКиК" PCT_S2NAME="ДЮСШ ФКиК" PCT_S3NAME="ДЮСШ ФКиК" PCT_S4NAME="ДЮСШ ФКиК" PCT_CSNAM="ДЮСШ ФКиК"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="105" PCT_ID="65481" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65481" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Кияко" PCT_BDAY="20020621" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="Е." PCT_FNAMEC="КИЯКО" PCT_CNAME="Елизавета КИЯКО" PCT_SNAME="КИЯКЕЛИЗ" PCT_PLNAME="Елизавета КИЯКО" PCT_PSNAME="Елизавета КИЯКО" PCT_TLNAME="Елизавета КИЯКО" PCT_TSNAME="Елизавета КИЯКО" PCT_S1NAME="Елизавета КИЯКО" PCT_S2NAME="Елизавета КИЯКО" PCT_S3NAME="Елизавета КИЯКО" PCT_S4NAME="Елизавета КИЯКО" PCT_WFNAME="Кияко" PCT_WGNAME="Елизавета" PCT_INAME="КИЯКО Е." PCT_RNAME="КИЯКО Елизавета"
+PCT_CLBID="66845"
+PCT_CSNAM="Личная заявка"
+>
+<Club PCT_ID="66845" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная заявка" PCT_SNAME="ЛИЧНАЯ З" PCT_PLNAME="Личная заявка" PCT_PSNAME="Личная заявка" PCT_TLNAME="Личная заявка" PCT_TSNAME="Личная заявка" PCT_S1NAME="Личная заявка" PCT_S2NAME="Личная заявка" PCT_S3NAME="Личная заявка" PCT_S4NAME="Личная заявка" PCT_CSNAM="Личная заявка"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="106" PCT_ID="65297" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65297" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="София" PCT_FNAME="Мовсесян" PCT_BDAY="20020108" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="С." PCT_FNAMEC="МОВСЕСЯН" PCT_CNAME="София МОВСЕСЯН" PCT_SNAME="МОВССОФИ" PCT_PLNAME="София МОВСЕСЯН" PCT_PSNAME="София МОВСЕСЯН" PCT_TLNAME="София МОВСЕСЯН" PCT_TSNAME="София МОВСЕСЯН" PCT_S1NAME="София МОВСЕСЯН" PCT_S2NAME="София МОВСЕСЯН" PCT_S3NAME="София МОВСЕСЯН" PCT_S4NAME="София МОВСЕСЯН" PCT_WFNAME="Мовсесян" PCT_WGNAME="София" PCT_INAME="МОВСЕСЯН С." PCT_RNAME="МОВСЕСЯН София"
+PCT_CLBID="66846"
+PCT_CSNAM="Лично"
+>
+<Club PCT_ID="66846" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Лично" PCT_SNAME="ЛИЧНО" PCT_PLNAME="Лично" PCT_PSNAME="Лично" PCT_TLNAME="Лично" PCT_TSNAME="Лично" PCT_S1NAME="Лично" PCT_S2NAME="Лично" PCT_S3NAME="Лично" PCT_S4NAME="Лично" PCT_CSNAM="Лично"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="107" PCT_ID="65848" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65848" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Амина" PCT_FNAME="Саидова" PCT_BDAY="20020101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="А." PCT_FNAMEC="САИДОВА" PCT_CNAME="Амина САИДОВА" PCT_SNAME="САИДАМИН" PCT_PLNAME="Амина САИДОВА" PCT_PSNAME="Амина САИДОВА" PCT_TLNAME="Амина САИДОВА" PCT_TSNAME="Амина САИДОВА" PCT_S1NAME="Амина САИДОВА" PCT_S2NAME="Амина САИДОВА" PCT_S3NAME="Амина САИДОВА" PCT_S4NAME="Амина САИДОВА" PCT_WFNAME="Саидова" PCT_WGNAME="Амина" PCT_INAME="САИДОВА А." PCT_RNAME="САИДОВА Амина"
+PCT_CLBID="66847"
+PCT_CSNAM="МУ СК &quot; Дмитров&quot;"
+>
+<Club PCT_ID="66847" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot; Дмитров&quot;" PCT_SNAME="МУ СК &quot; " PCT_PLNAME="МУ СК &quot; Дмитров&quot;" PCT_PSNAME="МУ СК &quot; Дмитров&quot;" PCT_TLNAME="МУ СК &quot; Дмитров&quot;" PCT_TSNAME="МУ СК &quot; Дмитров&quot;" PCT_S1NAME="МУ СК &quot; Дмитров&quot;" PCT_S2NAME="МУ СК &quot; Дмитров&quot;" PCT_S3NAME="МУ СК &quot; Дмитров&quot;" PCT_S4NAME="МУ СК &quot; Дмитров&quot;" PCT_CSNAM="МУ СК &quot; Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="108" PCT_ID="65340" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65340" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Люсинэ" PCT_FNAME="Сафарян" PCT_BDAY="20020907" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Захарова Л.В." PCT_GNAMEI="Л." PCT_FNAMEC="САФАРЯН" PCT_CNAME="Люсинэ САФАРЯН" PCT_SNAME="САФАЛЮСИ" PCT_PLNAME="Люсинэ САФАРЯН" PCT_PSNAME="Люсинэ САФАРЯН" PCT_TLNAME="Люсинэ САФАРЯН" PCT_TSNAME="Люсинэ САФАРЯН" PCT_S1NAME="Люсинэ САФАРЯН" PCT_S2NAME="Люсинэ САФАРЯН" PCT_S3NAME="Люсинэ САФАРЯН" PCT_S4NAME="Люсинэ САФАРЯН" PCT_WFNAME="Сафарян" PCT_WGNAME="Люсинэ" PCT_INAME="САФАРЯН Л." PCT_RNAME="САФАРЯН Люсинэ"
+PCT_CLBID="66848"
+PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+>
+<Club PCT_ID="66848" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_SNAME="СДЮШОР &quot;" PCT_PLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_PSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S1NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S2NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S3NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S4NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="109" PCT_ID="65372" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65372" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елена" PCT_FNAME="Сахарова" PCT_BDAY="20020101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Федорченко Л.А." PCT_GNAMEI="Е." PCT_FNAMEC="САХАРОВА" PCT_CNAME="Елена САХАРОВА" PCT_SNAME="САХАЕЛЕН" PCT_PLNAME="Елена САХАРОВА" PCT_PSNAME="Елена САХАРОВА" PCT_TLNAME="Елена САХАРОВА" PCT_TSNAME="Елена САХАРОВА" PCT_S1NAME="Елена САХАРОВА" PCT_S2NAME="Елена САХАРОВА" PCT_S3NAME="Елена САХАРОВА" PCT_S4NAME="Елена САХАРОВА" PCT_WFNAME="Сахарова" PCT_WGNAME="Елена" PCT_INAME="САХАРОВА Е." PCT_RNAME="САХАРОВА Елена"
+PCT_CLBID="66849"
+PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+>
+<Club PCT_ID="66849" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_SNAME="СДЮШОР &quot;" PCT_PLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_PSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S1NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S2NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S3NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S4NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="110" PCT_ID="65320" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65320" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Софья" PCT_FNAME="Соколова" PCT_BDAY="20030610" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Захарова Л.В." PCT_GNAMEI="С." PCT_FNAMEC="СОКОЛОВА" PCT_CNAME="Софья СОКОЛОВА" PCT_SNAME="СОКОСОФЬ" PCT_PLNAME="Софья СОКОЛОВА" PCT_PSNAME="Софья СОКОЛОВА" PCT_TLNAME="Софья СОКОЛОВА" PCT_TSNAME="Софья СОКОЛОВА" PCT_S1NAME="Софья СОКОЛОВА" PCT_S2NAME="Софья СОКОЛОВА" PCT_S3NAME="Софья СОКОЛОВА" PCT_S4NAME="Софья СОКОЛОВА" PCT_WFNAME="Соколова" PCT_WGNAME="Софья" PCT_INAME="СОКОЛОВА С." PCT_RNAME="СОКОЛОВА Софья"
+PCT_CLBID="66850"
+PCT_CSNAM="Юность Москвы"
+>
+<Club PCT_ID="66850" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Юность Москвы" PCT_SNAME="ЮНОСТЬ М" PCT_PLNAME="Юность Москвы" PCT_PSNAME="Юность Москвы" PCT_TLNAME="Юность Москвы" PCT_TSNAME="Юность Москвы" PCT_S1NAME="Юность Москвы" PCT_S2NAME="Юность Москвы" PCT_S3NAME="Юность Москвы" PCT_S4NAME="Юность Москвы" PCT_CSNAM="Юность Москвы"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="111" PCT_ID="65482" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65482" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александра" PCT_FNAME="Терехина" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="А." PCT_FNAMEC="ТЕРЕХИНА" PCT_CNAME="Александра ТЕРЕХИНА" PCT_SNAME="ТЕРЕАЛЕК" PCT_PLNAME="Александра ТЕРЕХИНА" PCT_PSNAME="Александра ТЕРЕХИНА" PCT_TLNAME="Александра ТЕРЕХИНА" PCT_TSNAME="Александра ТЕРЕХИНА" PCT_S1NAME="Александра ТЕРЕХИНА" PCT_S2NAME="Александра ТЕРЕХИНА" PCT_S3NAME="Александра ТЕРЕХИНА" PCT_S4NAME="Александра ТЕРЕХИНА" PCT_WFNAME="Терехина" PCT_WGNAME="Александра" PCT_INAME="ТЕРЕХИНА А." PCT_RNAME="ТЕРЕХИНА Александра"
+PCT_CLBID="66851"
+PCT_CSNAM="Личная заявка"
+>
+<Club PCT_ID="66851" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная заявка" PCT_SNAME="ЛИЧНАЯ З" PCT_PLNAME="Личная заявка" PCT_PSNAME="Личная заявка" PCT_TLNAME="Личная заявка" PCT_TSNAME="Личная заявка" PCT_S1NAME="Личная заявка" PCT_S2NAME="Личная заявка" PCT_S3NAME="Личная заявка" PCT_S4NAME="Личная заявка" PCT_CSNAM="Личная заявка"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="112" PCT_ID="65609" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65609" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елизавета" PCT_FNAME="Теряева" PCT_BDAY="20030101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Бородинав С.И." PCT_GNAMEI="Е." PCT_FNAMEC="ТЕРЯЕВА" PCT_CNAME="Елизавета ТЕРЯЕВА" PCT_SNAME="ТЕРЯЕЛИЗ" PCT_PLNAME="Елизавета ТЕРЯЕВА" PCT_PSNAME="Елизавета ТЕРЯЕВА" PCT_TLNAME="Елизавета ТЕРЯЕВА" PCT_TSNAME="Елизавета ТЕРЯЕВА" PCT_S1NAME="Елизавета ТЕРЯЕВА" PCT_S2NAME="Елизавета ТЕРЯЕВА" PCT_S3NAME="Елизавета ТЕРЯЕВА" PCT_S4NAME="Елизавета ТЕРЯЕВА" PCT_WFNAME="Теряева" PCT_WGNAME="Елизавета" PCT_INAME="ТЕРЯЕВА Е." PCT_RNAME="ТЕРЯЕВА Елизавета"
+PCT_CLBID="66852"
+PCT_CSNAM="ДЮСШ &quot;Космос"
+>
+<Club PCT_ID="66852" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ДЮСШ &quot;Космос" PCT_SNAME="ДЮСШ &quot;КО" PCT_PLNAME="ДЮСШ &quot;Космос" PCT_PSNAME="ДЮСШ &quot;Космос" PCT_TLNAME="ДЮСШ &quot;Космос" PCT_TSNAME="ДЮСШ &quot;Космос" PCT_S1NAME="ДЮСШ &quot;Космос" PCT_S2NAME="ДЮСШ &quot;Космос" PCT_S3NAME="ДЮСШ &quot;Космос" PCT_S4NAME="ДЮСШ &quot;Космос" PCT_CSNAM="ДЮСШ &quot;Космос"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="113" PCT_ID="65145" CAT_ID="3399" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65145" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Даша" PCT_FNAME="Холодкова" PCT_BDAY="20020511" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Черкасова Марина Евгеньевна" PCT_GNAMEI="Д." PCT_FNAMEC="ХОЛОДКОВА" PCT_CNAME="Даша ХОЛОДКОВА" PCT_SNAME="ХОЛОДАША" PCT_PLNAME="Даша ХОЛОДКОВА" PCT_PSNAME="Даша ХОЛОДКОВА" PCT_TLNAME="Даша ХОЛОДКОВА" PCT_TSNAME="Даша ХОЛОДКОВА" PCT_S1NAME="Даша ХОЛОДКОВА" PCT_S2NAME="Даша ХОЛОДКОВА" PCT_S3NAME="Даша ХОЛОДКОВА" PCT_S4NAME="Даша ХОЛОДКОВА" PCT_WFNAME="Холодкова" PCT_WGNAME="Даша" PCT_INAME="ХОЛОДКОВА Д." PCT_RNAME="ХОЛОДКОВА Даша"
+PCT_CLBID="66853"
+PCT_CSNAM="СШОР 1"
+>
+<Club PCT_ID="66853" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="СШОР 1" PCT_SNAME="СШОР 1" PCT_PLNAME="СШОР 1" PCT_PSNAME="СШОР 1" PCT_TLNAME="СШОР 1" PCT_TSNAME="СШОР 1" PCT_S1NAME="СШОР 1" PCT_S2NAME="СШОР 1" PCT_S3NAME="СШОР 1" PCT_S4NAME="СШОР 1" PCT_CSNAM="СШОР 1"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="98"
+PAR_ID="98" SCP_ID="19" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="99"
+PAR_ID="99" SCP_ID="19" PRF_STNUM="12" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="100"
+PAR_ID="100" SCP_ID="19" PRF_STNUM="10" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="101"
+PAR_ID="101" SCP_ID="19" PRF_STNUM="16" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="102"
+PAR_ID="102" SCP_ID="19" PRF_STNUM="9" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="103"
+PAR_ID="103" SCP_ID="19" PRF_STNUM="14" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="104"
+PAR_ID="104" SCP_ID="19" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="105"
+PAR_ID="105" SCP_ID="19" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="106"
+PAR_ID="106" SCP_ID="19" PRF_STNUM="8" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="107"
+PAR_ID="107" SCP_ID="19" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="108"
+PAR_ID="108" SCP_ID="19" PRF_STNUM="13" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="109"
+PAR_ID="109" SCP_ID="19" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="110"
+PAR_ID="110" SCP_ID="19" PRF_STNUM="15" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="111"
+PAR_ID="111" SCP_ID="19" PRF_STNUM="11" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="112"
+PAR_ID="112" SCP_ID="19" PRF_STNUM="7" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="113"
+PAR_ID="113" SCP_ID="19" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3400" EVT_ID="507" CAT_NAME="1 спортивный разряд - юноши, 2002 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="20" CAT_ID="3400" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="114" PCT_ID="65832" CAT_ID="3400" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65832" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Лука" PCT_FNAME="Берулава" PCT_BDAY="20020101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Галустян И.В." PCT_GNAMEI="Л." PCT_FNAMEC="БЕРУЛАВА" PCT_CNAME="Лука БЕРУЛАВА" PCT_SNAME="БЕРУЛУКА" PCT_PLNAME="Лука БЕРУЛАВА" PCT_PSNAME="Лука БЕРУЛАВА" PCT_TLNAME="Лука БЕРУЛАВА" PCT_TSNAME="Лука БЕРУЛАВА" PCT_S1NAME="Лука БЕРУЛАВА" PCT_S2NAME="Лука БЕРУЛАВА" PCT_S3NAME="Лука БЕРУЛАВА" PCT_S4NAME="Лука БЕРУЛАВА" PCT_WFNAME="Берулава" PCT_WGNAME="Лука" PCT_INAME="БЕРУЛАВА Л." PCT_RNAME="БЕРУЛАВА Лука"
+PCT_CLBID="66854"
+PCT_CSNAM="КПРФ"
+>
+<Club PCT_ID="66854" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="КПРФ" PCT_SNAME="КПРФ" PCT_PLNAME="КПРФ" PCT_PSNAME="КПРФ" PCT_TLNAME="КПРФ" PCT_TSNAME="КПРФ" PCT_S1NAME="КПРФ" PCT_S2NAME="КПРФ" PCT_S3NAME="КПРФ" PCT_S4NAME="КПРФ" PCT_CSNAM="КПРФ"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="115" PCT_ID="65061" CAT_ID="3400" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65061" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Даниил" PCT_FNAME="Горелкин" PCT_BDAY="20020101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Соколов Ф.Б.,Соколова Е.В." PCT_GNAMEI="Д." PCT_FNAMEC="ГОРЕЛКИН" PCT_CNAME="Даниил ГОРЕЛКИН" PCT_SNAME="ГОРЕДАНИ" PCT_PLNAME="Даниил ГОРЕЛКИН" PCT_PSNAME="Даниил ГОРЕЛКИН" PCT_TLNAME="Даниил ГОРЕЛКИН" PCT_TSNAME="Даниил ГОРЕЛКИН" PCT_S1NAME="Даниил ГОРЕЛКИН" PCT_S2NAME="Даниил ГОРЕЛКИН" PCT_S3NAME="Даниил ГОРЕЛКИН" PCT_S4NAME="Даниил ГОРЕЛКИН" PCT_WFNAME="Горелкин" PCT_WGNAME="Даниил" PCT_INAME="ГОРЕЛКИН Д." PCT_RNAME="ГОРЕЛКИН Даниил"
+PCT_CLBID="66855"
+PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+>
+<Club PCT_ID="66855" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_SNAME="ГБУ СШОР" PCT_PLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_PSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TLNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_TSNAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S1NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S2NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S3NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_S4NAME="ГБУ СШОР &quot;Трудовые Резервы&quot;" PCT_CSNAM="ГБУ СШОР &quot;Трудовые Резервы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="116" PCT_ID="65841" CAT_ID="3400" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65841" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Григорий" PCT_FNAME="Куприянов" PCT_BDAY="20020101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="" PCT_GNAMEI="Г." PCT_FNAMEC="КУПРИЯНОВ" PCT_CNAME="Григорий КУПРИЯНОВ" PCT_SNAME="КУПРГРИГ" PCT_PLNAME="Григорий КУПРИЯНОВ" PCT_PSNAME="Григорий КУПРИЯНОВ" PCT_TLNAME="Григорий КУПРИЯНОВ" PCT_TSNAME="Григорий КУПРИЯНОВ" PCT_S1NAME="Григорий КУПРИЯНОВ" PCT_S2NAME="Григорий КУПРИЯНОВ" PCT_S3NAME="Григорий КУПРИЯНОВ" PCT_S4NAME="Григорий КУПРИЯНОВ" PCT_WFNAME="Куприянов" PCT_WGNAME="Григорий" PCT_INAME="КУПРИЯНОВ Г." PCT_RNAME="КУПРИЯНОВ Григорий"
+PCT_CLBID="66856"
+PCT_CSNAM="Личная заявка"
+>
+<Club PCT_ID="66856" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Личная заявка" PCT_SNAME="ЛИЧНАЯ З" PCT_PLNAME="Личная заявка" PCT_PSNAME="Личная заявка" PCT_TLNAME="Личная заявка" PCT_TSNAME="Личная заявка" PCT_S1NAME="Личная заявка" PCT_S2NAME="Личная заявка" PCT_S3NAME="Личная заявка" PCT_S4NAME="Личная заявка" PCT_CSNAM="Личная заявка"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="117" PCT_ID="65233" CAT_ID="3400" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65233" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Павел В/к" PCT_FNAME="Новиков" PCT_BDAY="20010703" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="" PCT_GNAMEI="П." PCT_FNAMEC="НОВИКОВ" PCT_CNAME="Павел В/к НОВИКОВ" PCT_SNAME="НОВИПАВЕ" PCT_PLNAME="Павел В/к НОВИКОВ" PCT_PSNAME="Павел В/к НОВИКОВ" PCT_TLNAME="Павел В/к НОВИКОВ" PCT_TSNAME="Павел В/к НОВИКОВ" PCT_S1NAME="Павел В/к НОВИКОВ" PCT_S2NAME="Павел В/к НОВИКОВ" PCT_S3NAME="Павел В/к НОВИКОВ" PCT_S4NAME="Павел В/к НОВИКОВ" PCT_WFNAME="Новиков" PCT_WGNAME="Павел В/к" PCT_INAME="НОВИКОВ П." PCT_RNAME="НОВИКОВ Павел В/к"
+PCT_CLBID="66857"
+PCT_CSNAM="Лично"
+>
+<Club PCT_ID="66857" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Лично" PCT_SNAME="ЛИЧНО" PCT_PLNAME="Лично" PCT_PSNAME="Лично" PCT_TLNAME="Лично" PCT_TSNAME="Лично" PCT_S1NAME="Лично" PCT_S2NAME="Лично" PCT_S3NAME="Лично" PCT_S4NAME="Лично" PCT_CSNAM="Лично"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="118" PCT_ID="65634" CAT_ID="3400" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65634" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Даниил" PCT_FNAME="Старов" PCT_BDAY="20030101" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="Д." PCT_FNAMEC="СТАРОВ" PCT_CNAME="Даниил СТАРОВ" PCT_SNAME="СТАРДАНИ" PCT_PLNAME="Даниил СТАРОВ" PCT_PSNAME="Даниил СТАРОВ" PCT_TLNAME="Даниил СТАРОВ" PCT_TSNAME="Даниил СТАРОВ" PCT_S1NAME="Даниил СТАРОВ" PCT_S2NAME="Даниил СТАРОВ" PCT_S3NAME="Даниил СТАРОВ" PCT_S4NAME="Даниил СТАРОВ" PCT_WFNAME="Старов" PCT_WGNAME="Даниил" PCT_INAME="СТАРОВ Д." PCT_RNAME="СТАРОВ Даниил"
+PCT_CLBID="66858"
+PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+>
+<Club PCT_ID="66858" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot;Дмитров&quot;" PCT_SNAME="МУ СК &quot;Д" PCT_PLNAME="МУ СК &quot;Дмитров&quot;" PCT_PSNAME="МУ СК &quot;Дмитров&quot;" PCT_TLNAME="МУ СК &quot;Дмитров&quot;" PCT_TSNAME="МУ СК &quot;Дмитров&quot;" PCT_S1NAME="МУ СК &quot;Дмитров&quot;" PCT_S2NAME="МУ СК &quot;Дмитров&quot;" PCT_S3NAME="МУ СК &quot;Дмитров&quot;" PCT_S4NAME="МУ СК &quot;Дмитров&quot;" PCT_CSNAM="МУ СК &quot;Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="119" PCT_ID="65239" CAT_ID="3400" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65239" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Михаил" PCT_FNAME="Удалов" PCT_BDAY="20020228" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Буцаева В.Е. " PCT_GNAMEI="М." PCT_FNAMEC="УДАЛОВ" PCT_CNAME="Михаил УДАЛОВ" PCT_SNAME="УДАЛМИХА" PCT_PLNAME="Михаил УДАЛОВ" PCT_PSNAME="Михаил УДАЛОВ" PCT_TLNAME="Михаил УДАЛОВ" PCT_TSNAME="Михаил УДАЛОВ" PCT_S1NAME="Михаил УДАЛОВ" PCT_S2NAME="Михаил УДАЛОВ" PCT_S3NAME="Михаил УДАЛОВ" PCT_S4NAME="Михаил УДАЛОВ" PCT_WFNAME="Удалов" PCT_WGNAME="Михаил" PCT_INAME="УДАЛОВ М." PCT_RNAME="УДАЛОВ Михаил"
+PCT_CLBID="66859"
+PCT_CSNAM="Москвич"
+>
+<Club PCT_ID="66859" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Москвич" PCT_SNAME="МОСКВИЧ" PCT_PLNAME="Москвич" PCT_PSNAME="Москвич" PCT_TLNAME="Москвич" PCT_TSNAME="Москвич" PCT_S1NAME="Москвич" PCT_S2NAME="Москвич" PCT_S3NAME="Москвич" PCT_S4NAME="Москвич" PCT_CSNAM="Москвич"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="114"
+PAR_ID="114" SCP_ID="20" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="115"
+PAR_ID="115" SCP_ID="20" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="116"
+PAR_ID="116" SCP_ID="20" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="117"
+PAR_ID="117" SCP_ID="20" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="118"
+PAR_ID="118" SCP_ID="20" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="119"
+PAR_ID="119" SCP_ID="20" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3401" EVT_ID="507" CAT_NAME="КМС - девушки, 1996 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="21" CAT_ID="3401" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="120" PCT_ID="65850" CAT_ID="3401" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65850" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александра" PCT_FNAME="Австрийская" PCT_BDAY="20001030" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="" PCT_GNAMEI="А." PCT_FNAMEC="АВСТРИЙСКАЯ" PCT_CNAME="Александра АВСТРИЙСКАЯ" PCT_SNAME="АВСТАЛЕК" PCT_PLNAME="Александра АВСТРИЙСКАЯ" PCT_PSNAME="Александра АВСТРИЙСКАЯ" PCT_TLNAME="Александра АВСТРИЙСКАЯ" PCT_TSNAME="Александра АВСТРИЙСКАЯ" PCT_S1NAME="Александра АВСТРИЙСКАЯ" PCT_S2NAME="Александра АВСТРИЙСКАЯ" PCT_S3NAME="Александра АВСТРИЙСКАЯ" PCT_S4NAME="Александра АВСТРИЙСКАЯ" PCT_WFNAME="Австрийская" PCT_WGNAME="Александра" PCT_INAME="АВСТРИЙСКАЯ А." PCT_RNAME="АВСТРИЙСКАЯ Александра"
+PCT_CLBID="66860"
+PCT_CSNAM="Воробьевы Горы"
+>
+<Club PCT_ID="66860" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Воробьевы Горы" PCT_SNAME="ВОРОБЬЕВ" PCT_PLNAME="Воробьевы Горы" PCT_PSNAME="Воробьевы Горы" PCT_TLNAME="Воробьевы Горы" PCT_TSNAME="Воробьевы Горы" PCT_S1NAME="Воробьевы Горы" PCT_S2NAME="Воробьевы Горы" PCT_S3NAME="Воробьевы Горы" PCT_S4NAME="Воробьевы Горы" PCT_CSNAM="Воробьевы Горы"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="121" PCT_ID="66727" CAT_ID="3401" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="66727" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Валерия" PCT_FNAME="Бондарева" PCT_BDAY="19991217" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Захарова М.Б." PCT_GNAMEI="В." PCT_FNAMEC="БОНДАРЕВА" PCT_CNAME="Валерия БОНДАРЕВА" PCT_SNAME="БОНДВАЛЕ" PCT_PLNAME="Валерия БОНДАРЕВА" PCT_PSNAME="Валерия БОНДАРЕВА" PCT_TLNAME="Валерия БОНДАРЕВА" PCT_TSNAME="Валерия БОНДАРЕВА" PCT_S1NAME="Валерия БОНДАРЕВА" PCT_S2NAME="Валерия БОНДАРЕВА" PCT_S3NAME="Валерия БОНДАРЕВА" PCT_S4NAME="Валерия БОНДАРЕВА" PCT_WFNAME="Бондарева" PCT_WGNAME="Валерия" PCT_INAME="БОНДАРЕВА В." PCT_RNAME="БОНДАРЕВА Валерия"
+PCT_CLBID="66861"
+PCT_CSNAM="Юность Москвы"
+>
+<Club PCT_ID="66861" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Юность Москвы" PCT_SNAME="ЮНОСТЬ М" PCT_PLNAME="Юность Москвы" PCT_PSNAME="Юность Москвы" PCT_TLNAME="Юность Москвы" PCT_TSNAME="Юность Москвы" PCT_S1NAME="Юность Москвы" PCT_S2NAME="Юность Москвы" PCT_S3NAME="Юность Москвы" PCT_S4NAME="Юность Москвы" PCT_CSNAM="Юность Москвы"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="122" PCT_ID="66728" CAT_ID="3401" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="66728" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Александра" PCT_FNAME="Бутко" PCT_BDAY="19990101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Захарова М Б" PCT_GNAMEI="А." PCT_FNAMEC="БУТКО" PCT_CNAME="Александра БУТКО" PCT_SNAME="БУТКАЛЕК" PCT_PLNAME="Александра БУТКО" PCT_PSNAME="Александра БУТКО" PCT_TLNAME="Александра БУТКО" PCT_TSNAME="Александра БУТКО" PCT_S1NAME="Александра БУТКО" PCT_S2NAME="Александра БУТКО" PCT_S3NAME="Александра БУТКО" PCT_S4NAME="Александра БУТКО" PCT_WFNAME="Бутко" PCT_WGNAME="Александра" PCT_INAME="БУТКО А." PCT_RNAME="БУТКО Александра"
+PCT_CLBID="66862"
+PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+>
+<Club PCT_ID="66862" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_SNAME="СДЮШОР &quot;" PCT_PLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_PSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TLNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_TSNAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S1NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S2NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S3NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_S4NAME="СДЮШОР &quot;Юность Москвы&quot;" PCT_CSNAM="СДЮШОР &quot;Юность Москвы&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="123" PCT_ID="65820" CAT_ID="3401" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65820" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Елена" PCT_FNAME="Видомская" PCT_BDAY="20010711" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Балуева Н.В" PCT_GNAMEI="Е." PCT_FNAMEC="ВИДОМСКАЯ" PCT_CNAME="Елена ВИДОМСКАЯ" PCT_SNAME="ВИДОЕЛЕН" PCT_PLNAME="Елена ВИДОМСКАЯ" PCT_PSNAME="Елена ВИДОМСКАЯ" PCT_TLNAME="Елена ВИДОМСКАЯ" PCT_TSNAME="Елена ВИДОМСКАЯ" PCT_S1NAME="Елена ВИДОМСКАЯ" PCT_S2NAME="Елена ВИДОМСКАЯ" PCT_S3NAME="Елена ВИДОМСКАЯ" PCT_S4NAME="Елена ВИДОМСКАЯ" PCT_WFNAME="Видомская" PCT_WGNAME="Елена" PCT_INAME="ВИДОМСКАЯ Е." PCT_RNAME="ВИДОМСКАЯ Елена"
+PCT_CLBID="66863"
+PCT_CSNAM="Серебряные Акулы"
+>
+<Club PCT_ID="66863" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Серебряные Акулы" PCT_SNAME="СЕРЕБРЯН" PCT_PLNAME="Серебряные Акулы" PCT_PSNAME="Серебряные Акулы" PCT_TLNAME="Серебряные Акулы" PCT_TSNAME="Серебряные Акулы" PCT_S1NAME="Серебряные Акулы" PCT_S2NAME="Серебряные Акулы" PCT_S3NAME="Серебряные Акулы" PCT_S4NAME="Серебряные Акулы" PCT_CSNAM="Серебряные Акулы"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="124" PCT_ID="65849" CAT_ID="3401" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65849" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Арина" PCT_FNAME="Егорова" PCT_BDAY="20000101" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Гудалин Ю.В." PCT_GNAMEI="А." PCT_FNAMEC="ЕГОРОВА" PCT_CNAME="Арина ЕГОРОВА" PCT_SNAME="ЕГОРАРИН" PCT_PLNAME="Арина ЕГОРОВА" PCT_PSNAME="Арина ЕГОРОВА" PCT_TLNAME="Арина ЕГОРОВА" PCT_TSNAME="Арина ЕГОРОВА" PCT_S1NAME="Арина ЕГОРОВА" PCT_S2NAME="Арина ЕГОРОВА" PCT_S3NAME="Арина ЕГОРОВА" PCT_S4NAME="Арина ЕГОРОВА" PCT_WFNAME="Егорова" PCT_WGNAME="Арина" PCT_INAME="ЕГОРОВА А." PCT_RNAME="ЕГОРОВА Арина"
+PCT_CLBID="66864"
+PCT_CSNAM="МУ СК &quot; Дмитров&quot;"
+>
+<Club PCT_ID="66864" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="МУ СК &quot; Дмитров&quot;" PCT_SNAME="МУ СК &quot; " PCT_PLNAME="МУ СК &quot; Дмитров&quot;" PCT_PSNAME="МУ СК &quot; Дмитров&quot;" PCT_TLNAME="МУ СК &quot; Дмитров&quot;" PCT_TSNAME="МУ СК &quot; Дмитров&quot;" PCT_S1NAME="МУ СК &quot; Дмитров&quot;" PCT_S2NAME="МУ СК &quot; Дмитров&quot;" PCT_S3NAME="МУ СК &quot; Дмитров&quot;" PCT_S4NAME="МУ СК &quot; Дмитров&quot;" PCT_CSNAM="МУ СК &quot; Дмитров&quot;"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="125" PCT_ID="65613" CAT_ID="3401" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65613" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Ева" PCT_FNAME="Навахова" PCT_BDAY="20020624" PCT_GENDER="F" PCT_TITLE="Ms." PCT_COANAM="Буцаева В.Е. " PCT_GNAMEI="Е." PCT_FNAMEC="НАВАХОВА" PCT_CNAME="Ева НАВАХОВА" PCT_SNAME="НАВАЕВА" PCT_PLNAME="Ева НАВАХОВА" PCT_PSNAME="Ева НАВАХОВА" PCT_TLNAME="Ева НАВАХОВА" PCT_TSNAME="Ева НАВАХОВА" PCT_S1NAME="Ева НАВАХОВА" PCT_S2NAME="Ева НАВАХОВА" PCT_S3NAME="Ева НАВАХОВА" PCT_S4NAME="Ева НАВАХОВА" PCT_WFNAME="Навахова" PCT_WGNAME="Ева" PCT_INAME="НАВАХОВА Е." PCT_RNAME="НАВАХОВА Ева"
+PCT_CLBID="66865"
+PCT_CSNAM="Москвич"
+>
+<Club PCT_ID="66865" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Москвич" PCT_SNAME="МОСКВИЧ" PCT_PLNAME="Москвич" PCT_PSNAME="Москвич" PCT_TLNAME="Москвич" PCT_TSNAME="Москвич" PCT_S1NAME="Москвич" PCT_S2NAME="Москвич" PCT_S3NAME="Москвич" PCT_S4NAME="Москвич" PCT_CSNAM="Москвич"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="120"
+PAR_ID="120" SCP_ID="21" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="121"
+PAR_ID="121" SCP_ID="21" PRF_STNUM="4" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="122"
+PAR_ID="122" SCP_ID="21" PRF_STNUM="5" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="123"
+PAR_ID="123" SCP_ID="21" PRF_STNUM="1" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="124"
+PAR_ID="124" SCP_ID="21" PRF_STNUM="6" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="125"
+PAR_ID="125" SCP_ID="21" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+<Category CAT_ID="3402" EVT_ID="507" CAT_NAME="КМС - юноши, 1996 г.р. и младше"
+>
+<Segments_List>
+<Segment SCP_ID="22" CAT_ID="3402" SCP_NAME="Произвольная программа" SCP_TVNAME="Произвольная программа" SCP_SNAM="ПП" SCP_TYPE="F"
+SCP_NWCAT="1"
+>
+<Participants_List>
+<Participant PAR_ID="126" PCT_ID="65612" CAT_ID="3402" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65612" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Дмитрий" PCT_FNAME="Евгеньев" PCT_BDAY="20010907" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Буцаева В.Е. " PCT_GNAMEI="Д." PCT_FNAMEC="ЕВГЕНЬЕВ" PCT_CNAME="Дмитрий ЕВГЕНЬЕВ" PCT_SNAME="ЕВГЕДМИТ" PCT_PLNAME="Дмитрий ЕВГЕНЬЕВ" PCT_PSNAME="Дмитрий ЕВГЕНЬЕВ" PCT_TLNAME="Дмитрий ЕВГЕНЬЕВ" PCT_TSNAME="Дмитрий ЕВГЕНЬЕВ" PCT_S1NAME="Дмитрий ЕВГЕНЬЕВ" PCT_S2NAME="Дмитрий ЕВГЕНЬЕВ" PCT_S3NAME="Дмитрий ЕВГЕНЬЕВ" PCT_S4NAME="Дмитрий ЕВГЕНЬЕВ" PCT_WFNAME="Евгеньев" PCT_WGNAME="Дмитрий" PCT_INAME="ЕВГЕНЬЕВ Д." PCT_RNAME="ЕВГЕНЬЕВ Дмитрий"
+PCT_CLBID="66866"
+PCT_CSNAM="Москвич"
+>
+<Club PCT_ID="66866" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Москвич" PCT_SNAME="МОСКВИЧ" PCT_PLNAME="Москвич" PCT_PSNAME="Москвич" PCT_TLNAME="Москвич" PCT_TSNAME="Москвич" PCT_S1NAME="Москвич" PCT_S2NAME="Москвич" PCT_S3NAME="Москвич" PCT_S4NAME="Москвич" PCT_CSNAM="Москвич"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="127" PCT_ID="65610" CAT_ID="3402" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65610" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Иван" PCT_FNAME="Кириенко" PCT_BDAY="20010628" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Буцаева В.Е. " PCT_GNAMEI="И." PCT_FNAMEC="КИРИЕНКО" PCT_CNAME="Иван КИРИЕНКО" PCT_SNAME="КИРИИВАН" PCT_PLNAME="Иван КИРИЕНКО" PCT_PSNAME="Иван КИРИЕНКО" PCT_TLNAME="Иван КИРИЕНКО" PCT_TSNAME="Иван КИРИЕНКО" PCT_S1NAME="Иван КИРИЕНКО" PCT_S2NAME="Иван КИРИЕНКО" PCT_S3NAME="Иван КИРИЕНКО" PCT_S4NAME="Иван КИРИЕНКО" PCT_WFNAME="Кириенко" PCT_WGNAME="Иван" PCT_INAME="КИРИЕНКО И." PCT_RNAME="КИРИЕНКО Иван"
+PCT_CLBID="66867"
+PCT_CSNAM="Москвич"
+>
+<Club PCT_ID="66867" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Москвич" PCT_SNAME="МОСКВИЧ" PCT_PLNAME="Москвич" PCT_PSNAME="Москвич" PCT_TLNAME="Москвич" PCT_TSNAME="Москвич" PCT_S1NAME="Москвич" PCT_S2NAME="Москвич" PCT_S3NAME="Москвич" PCT_S4NAME="Москвич" PCT_CSNAM="Москвич"
+/>
+</Person_Couple_Team>
+</Participant>
+<Participant PAR_ID="128" PCT_ID="65611" CAT_ID="3402" PAR_STAT="A"
+>
+<Person_Couple_Team PCT_ID="65611" PCT_TYPE="PER" PCT_AFUNCT="CMP" PCT_STAT="A" PCT_GNAME="Егор" PCT_FNAME="Мурашов" PCT_BDAY="20000520" PCT_GENDER="M" PCT_TITLE="Mr." PCT_COANAM="Буцаева В.Е. " PCT_GNAMEI="Е." PCT_FNAMEC="МУРАШОВ" PCT_CNAME="Егор МУРАШОВ" PCT_SNAME="МУРАЕГОР" PCT_PLNAME="Егор МУРАШОВ" PCT_PSNAME="Егор МУРАШОВ" PCT_TLNAME="Егор МУРАШОВ" PCT_TSNAME="Егор МУРАШОВ" PCT_S1NAME="Егор МУРАШОВ" PCT_S2NAME="Егор МУРАШОВ" PCT_S3NAME="Егор МУРАШОВ" PCT_S4NAME="Егор МУРАШОВ" PCT_WFNAME="Мурашов" PCT_WGNAME="Егор" PCT_INAME="МУРАШОВ Е." PCT_RNAME="МУРАШОВ Егор"
+PCT_CLBID="66868"
+PCT_CSNAM="Москвич"
+>
+<Club PCT_ID="66868" PCT_TYPE="CLU" PCT_STAT="A" PCT_CNAME="Москвич" PCT_SNAME="МОСКВИЧ" PCT_PLNAME="Москвич" PCT_PSNAME="Москвич" PCT_TLNAME="Москвич" PCT_TSNAME="Москвич" PCT_S1NAME="Москвич" PCT_S2NAME="Москвич" PCT_S3NAME="Москвич" PCT_S4NAME="Москвич" PCT_CSNAM="Москвич"
+/>
+</Person_Couple_Team>
+</Participant>
+</Participants_List>
+<Performance_List>
+<Performance PRF_ID="126"
+PAR_ID="126" SCP_ID="22" PRF_STNUM="2" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="127"
+PAR_ID="127" SCP_ID="22" PRF_STNUM="3" PRF_STGNUM="1" PRF_STAT="L"
+/>
+<Performance PRF_ID="128"
+PAR_ID="128" SCP_ID="22" PRF_STAT="M"
+/>
+</Performance_List>
+</Segment>
+</Segments_List>
+</Category>
+</Categories_List>
+</Event>
+</ISUCalcFS>

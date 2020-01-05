@@ -1,0 +1,35 @@
+extends layout
+
+block content
+    center
+        h1=event.name
+        h3=event.place
+        
+        
+        table
+            each category in categories
+                +category(category)
+            
+        
+mixin segment(segment, typename)
+    tr(class=typename)
+        td(colspan="2")=segment.name
+        td(colspan="2")
+            ul
+                li 
+                    a(href=`/starding_order/${event.extdt}/${segment.cat_id}/${segment.id}`) стартовый протокол
+                li 
+                    a(href=`/officials/${event.extdt}/${segment.cat_id}/${segment.id}`) бригада судей
+                li детализации
+                
+mixin category(category)
+    tr
+        th(colspan="2", class=category.typename, cat_id=category._id)=category.name
+            th(class=category.typename) 
+                a(href=`/entries/${event.extdt}/${category.id}`) заявки
+            th(class=category.typename) результаты
+            tr(class=category.type)
+            
+                each segment in category.segments
+                    +segment(segment, category.typename)
+            

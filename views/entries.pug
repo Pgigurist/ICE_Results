@@ -1,0 +1,22 @@
+extends layout
+
+block content
+    -let num = 0
+    center
+        h1=category.name
+        h2 Заявки
+        table
+            tr(class=category.typename)
+                th(class=category.typename) #
+                th(class=category.typename) Имя
+                th(class=category.typename) Регион
+                
+            each participant in participants
+                +participant(participant)
+                
+mixin participant(participant)
+    -num++
+    tr(class=category.typename)
+                td=num
+                td=participant.full_name
+                td=participant.nation

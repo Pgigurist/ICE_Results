@@ -1,0 +1,40 @@
+extends layout
+block content
+    center
+        h1=category.name
+        h2=segment.name
+        h3 бригада судей
+
+        table(class=category.typename)
+            tr(class=category.typename)
+                th(class=category.typename, colspan="3") бригада судей
+            tr(class=category.typename)
+                th должность
+                th имя
+                th регион
+            each item in officials
+                +judge(item)
+
+            
+mixin judge(judge)
+    tr(class=category.typename)
+        if judge.function === 'JDG'
+            td(class=category.typename)='Судья '+judge.index
+            td(class=category.typename)=judge.full_name
+            td(class=category.typename)=judge.nation
+        else if judge.function === 'TSP'
+            td(class=category.typename)='Технический специалист'
+            td(class=category.typename)=judge.full_name
+            td(class=category.typename)=judge.nation
+        else if judge.function === 'TCO'
+            td(class=category.typename)='Технический контролер'
+            td(class=category.typename)=judge.full_name
+            td(class=category.typename)=judge.nation
+        else if judge.function === 'STS'
+            td(class=category.typename)='Ассистент технического специалиста'
+            td(class=category.typename)=judge.full_name
+            td(class=category.typename)=judge.nation
+        else if judge.function === 'ERF'
+            td(class=category.typename)='Рефери'
+            td(class=category.typename)=judge.full_name
+            td(class=category.typename)=judge.nation

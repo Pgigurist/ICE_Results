@@ -3,6 +3,43 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
+
+
+th {
+    border: 1pt ridge grey;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+}
+
+
+
+th.Man {
+    background-color: #0000ffab;
+}
+tr.Man td {
+    background-color: #0000ff33;
+}
+
+th.Ladies {
+    background-color: #ed143d7a;
+}
+tr.Ladies td {
+    background-color: #ed143d30;
+}
+
+th.Pairs {
+    background-color: #00ff006b;
+}
+tr.Pairs td {
+    background-color: #00ff0030;
+}
+
+th.Dance {
+    background-color: #ffd40073;
+}
+tr.Dance td {
+    background-color: lightyellow;
 }
